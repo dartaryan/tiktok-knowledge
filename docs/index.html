@@ -749,7 +749,7 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="3">0</div>
+        <div class="stat-value" data-target="4">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
@@ -759,7 +759,7 @@
       </div>
       <div class="stat">
         <i class="ph ph-star stat-icon"></i>
-        <div class="stat-value" data-target="3.3" data-decimal="true">0</div>
+        <div class="stat-value" data-target="3.2" data-decimal="true">0</div>
         <div class="stat-label">Avg Relevance</div>
       </div>
     </div>
@@ -775,7 +775,7 @@
       <button class="filter-btn active" data-filter="all"><i class="ph ph-squares-four"></i> All</button>
 <button class="filter-btn" data-filter="elon-katzef" style="--btn-accent:#25F4EE"><i class="ph ph-brain"></i> Alon Katzef Advisory <span class="count">1</span></button>
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">1</span></button>
-<button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">1</span></button>
+<button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">2</span></button>
     </div>
 
     <div class="divider"></div>
@@ -823,6 +823,50 @@
         <div class="card-tags"><span class="tag">claude-code</span><span class="tag">n8n</span><span class="tag">mcp</span><span class="tag">workflow-automation</span><span class="tag">sop-automation</span></div>
         <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
         <a href="https://vt.tiktok.com/ZSuKcuKxG/" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
+    <article class="card" data-category="taylor-played" style="--accent:#A855F7">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-game-controller"></i></div>
+        <div class="card-meta">
+          <span class="card-category">טיילור פלייד &middot; TailorPlayed</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-03-27 &middot; @jagger_b</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">יצירת סרטוני אנימציה עם Claude Code ו-Remotion — ללא תוכנות עריכה</h3>
+      <p class="card-title-en">Generating Animated Videos with Claude Code + Remotion Agent Skill — No Editing Software Needed</p>
+      <p class="card-summary">ניתן להתקין את ה-Skill של Remotion (ספריית React ליצירת וידאו תכנותי) בתוך Claude Code ולייצר סרטוני אנימציה מלאים באמצעות פרומפטים בלבד. Claude מייצר scenes, תזמון ואסטים, והתוצאה מוצגת אוטומטית ב-Remotion Studio בדפדפן לעריכה. שימושים מוצהרים: טיזרי מוצר, תוכן TikTok ו-Reels, סרטוני הסבר ודמואים פנים-ארגוניים.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>Remotion בנוי על React — מה שהופך אותו לתואם ישירות לסטאק של taylor-played (React 19 + TypeScript), ומאפשר שילוב עם קוד קיים</li><li>ה-Skill מלמד את Claude Code את ה-API של Remotion, דפוסי אנימציה ו-best practices — אין צורך בהיכרות מוקדמת עם הספרייה</li><li>שלא כמו AI וידאו גנרטיבי (כמו Sora), Remotion מייצר React components שרנדרים פריימים — התוצאה ניתנת לעריכה, לאיטרציה ולשליטה מלאה</li><li>שימוש מסחרי ב-Remotion עשוי לדרוש רישיון חברה בתשלום — חובה לבדוק לפני שימוש בפרויקט taylor-played</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[Claude Code](https://claude.ai/code) | https://claude.ai/code | סביבת קידוד AI של Anthropic — דורשת מנוי בתשלום</li><li>[Remotion](https://www.remotion.dev) | https://www.remotion.dev | ספריית React ליצירת סרטוני וידאו תכנותיים — מרנדרת React components לקבצי MP4</li><li>[Remotion Agent Skills](https://www.remotion.dev/docs/ai/skills) | https://www.remotion.dev/docs/ai/skills | Skill להתקנה ב-Claude Code שמלמד אותו את ה-API, דפוסי האנימציה וה-best practices של Remotion</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> הרץ `npx skills add remotion-dev/skills` בתיקייה ריקה ובדוק יצירת טיזר מוצר לפרויקט taylor-played</li><li><i class="ph ph-check-square"></i> עיין בתיעוד הרשמי בכתובת https://www.remotion.dev/docs/ai/claude-code לתהליך ההתקנה המלא</li><li><i class="ph ph-check-square"></i> בדוק את עמוד הרישיון של Remotion לפני שימוש מסחרי — ייתכן שנדרש רישיון חברה בתשלום</li></ul>
+        </div>
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הטרנסקריפט טוען &#x27;no editing software needed&#x27; — נכון לגרסה ראשונית, אך איטרציות מורכבות עשויות לדרוש היכרות עם קוד React/Remotion</li><li>הטרנסקריפט לא מציין את הצורך במנוי Claude Code בתשלום — מידע חסר קריטי למשתמש חדש</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">claude-code</span><span class="tag">remotion</span><span class="tag">react</span><span class="tag">video-generation</span><span class="tag">content-creation</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://vt.tiktok.com/ZSuosm8xj" target="_blank" rel="noopener" class="card-source">
           <i class="ph ph-arrow-square-out"></i> Source
         </a>
       </div>
@@ -924,7 +968,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-03-27 00:10</p>
+      <p>Last updated: 2026-03-27 15:48</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
