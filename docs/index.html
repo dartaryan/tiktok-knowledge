@@ -662,6 +662,17 @@
       50% { transform: scale(1.2); }
     }
 
+    /* === Deep-link highlight pulse === */
+    @keyframes highlightPulse {
+      0% { box-shadow: 0 0 0 0 rgba(37, 244, 238, 0.6); }
+      50% { box-shadow: 0 0 20px 8px rgba(37, 244, 238, 0.3); }
+      100% { box-shadow: 0 0 0 0 rgba(37, 244, 238, 0); }
+    }
+    .card.highlight-pulse {
+      animation: highlightPulse 1.5s ease-out 2;
+      border-color: var(--cyan) !important;
+    }
+
     /* === Scroll to top === */
     .scroll-top {
       position: fixed;
@@ -784,7 +795,7 @@
     <div class="cards-container">
       <div class="cards-grid" id="cardsGrid">
         
-    <article class="card" data-category="elon-katzef" style="--accent:#25F4EE">
+    <article class="card" id="elon-katzef-2026-03-27-building-deterministic-automation-workflows-in-min" data-category="elon-katzef" style="--accent:#25F4EE">
       <div class="card-glow"></div>
       <div class="card-header">
         <div class="card-icon"><i class="ph ph-brain"></i></div>
@@ -828,7 +839,7 @@
       </div>
     </article>
 
-    <article class="card" data-category="taylor-played" style="--accent:#A855F7">
+    <article class="card" id="taylor-played-2026-03-27-generating-animated-videos-with-claude-code-remoti" data-category="taylor-played" style="--accent:#A855F7">
       <div class="card-glow"></div>
       <div class="card-header">
         <div class="card-icon"><i class="ph ph-game-controller"></i></div>
@@ -872,7 +883,7 @@
       </div>
     </article>
 
-    <article class="card" data-category="taylor-played" style="--accent:#A855F7">
+    <article class="card" id="taylor-played-2026-03-27-ruflo-formerly-claude-flow-multi-agent-orchestrati" data-category="taylor-played" style="--accent:#A855F7">
       <div class="card-glow"></div>
       <div class="card-header">
         <div class="card-icon"><i class="ph ph-game-controller"></i></div>
@@ -882,41 +893,41 @@
         </div>
         <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
       </div>
-      <h3 class="card-title-he">Ruflo: פלטפורמת אורקסטרציה של 60+ סוכני AI מקביליים ל-Claude Code</h3>
-      <p class="card-title-en">Ruflo (formerly Claude Flow): Multi-Agent Orchestration Framework for Claude Code</p>
-      <p class="card-summary">Ruflo (לשעבר Claude Flow) הוא framework בקוד פתוח המאפשר הרצה מקבילית של 60+ סוכני AI מיוחדים בתוך Claude Code, כאשר כולם חולקים זיכרון ולומדים מכל ריצה. הכלי מציע ניתוב חכם תלת-שכבתי: משימות פשוטות ל-WASM חינמי, משימות בינוניות למודל זול, ומשימות מורכבות למודל האופטימלי. לפי המפתחים, הניתוב החכם מוביל לחיסכון של עד 75% בעלויות API ולהגברת יעילות ה-Claude subscription פי 2.5.</p>
+      <h3 class="card-title-he">Ruflo (לשעבר Claude Flow) — פלטפורמת תזמור Multi-Agent לפיתוח תוכנה עם Claude Code</h3>
+      <p class="card-title-en">Ruflo (formerly Claude Flow) — Multi-Agent Orchestration Platform for Claude Code Development</p>
+      <p class="card-summary">Ruflo הוא framework (מסגרת עבודה) לתזמור Multi-Agent בקוד פתוח, שהופך את Claude Code לפלטפורמת פיתוח עם 60+ agents מתמחים הפועלים במקביל — מתכנן, כותב קוד, מריץ בדיקות, בודק אבטחה — תוך שיתוף זיכרון ולמידה מתמשכת בין ריצות. הכלי תומך גם ב-LLM אחרים (GPT, Gemini, מודלים מקומיים) ומנתב משימות פשוטות למודלים זולים יותר כדי לחסוך בעלויות API. הפרויקט אומת כקיים ב-GitHub עם 27,000+ כוכבים (נכון למרץ 2026), ופתוח לחלוטין ללא עלות נוספת.</p>
       <div class="card-details">
         
         <div class="card-section">
           <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
-          <ul class="card-list"><li>ארכיטקטורת סוכנים מיוחדים: מתכנן, מקודד, בודק ומאבטח רצים במקביל ומשתפים זיכרון – תבנית orchestrator/specialist מובנית</li><li>ניתוב חכם 3-שכבות: WASM (חינמי) → מודל זול → מודל אופטימלי; בחירה אוטומטית לפי מורכבות המשימה</li><li>Ruflo משתלב ל-Claude Code דרך MCP (Model Context Protocol) – 259 כלים זמינים ישירות בסשן</li><li>הכלי לומד מכל ריצה ומאחסן patterns מוצלחים, מה שמוביל לניתוב טוב יותר לאורך זמן</li></ul>
+          <ul class="card-list"><li>Ruflo היא גרסה הנוכחית של Claude Flow — הרפו GitHub הוא ruvnet/ruflo, ניתן להתקין עם npx ruflo@latest init</li><li>המערכת כוללת 60+ agent מתמחים (coder, tester, reviewer, architect, security ועוד) עם זיכרון משותף ולמידה רציפה — דפוס orchestrator/specialist שרלוונטי לארכיטקטורת Multi-Agent ב-taylor-played</li><li>Smart routing מנתב משימות פשוטות למודלים זולים/מקומיים דרך WASM ומשימות מורכבות למודל האופטימלי — הרעיון ישים גם ב-Gemini API integration של taylor-played</li><li>תוכן שניתן לשימוש גם ב-optiplan: הכלי בנוי ב-TypeScript עם MCP (Model Context Protocol) ותומך ב-React/TypeScript workflows</li></ul>
         </div>
         
         <div class="card-section">
           <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
-          <ul class="card-list"><li>[Ruflo (formerly Claude Flow)](https://github.com/ruvnet/ruflo) | https://github.com/ruvnet/ruflo | פלטפורמת אורקסטרציה של סוכני AI לסביבת Claude Code; v3.5 הוא ה-release הראשון הסטבילי, עם 60+ סוכנים ו-259 כלי MCP</li><li>[Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) | https://docs.anthropic.com/en/docs/claude-code/overview | סוכן הקידוד של Anthropic שאליו Ruflo מתחבר דרך MCP</li><li>[MCP (Model Context Protocol)](https://modelcontextprotocol.io) | https://modelcontextprotocol.io | פרוטוקול חיבור בין סוכני AI לכלים חיצוניים; הבסיס לאינטגרציה של Ruflo עם Claude Code</li></ul>
+          <ul class="card-list"><li>[Ruflo (formerly Claude Flow)](https://github.com/ruvnet/ruflo) | https://github.com/ruvnet/ruflo | פלטפורמת תזמור Multi-Agent בקוד פתוח ל-Claude Code — 60+ agents מתמחים, זיכרון משותף, ניתוב חכם בין מודלים, 313 כלי MCP</li><li>[Claude Code](https://claude.ai/code) | https://claude.ai/code | סביבת הפיתוח של Anthropic ש-Ruflo מרחיב לפלטפורמת Multi-Agent</li><li>[MCP (Model Context Protocol)](https://modelcontextprotocol.io) | https://modelcontextprotocol.io | פרוטוקול סטנדרטי לחיבור כלים חיצוניים ל-Claude — Ruflo מספק 313+ כלי MCP</li></ul>
         </div>
         
         <div class="card-section">
           <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
-          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> להריץ `npx ruflo@latest init --wizard` בפרויקט TailorPlayed לבדיקת זמן onboarding</li><li><i class="ph ph-check-square"></i> לבדוק אם ניתוב ה-WASM אכן מאפס עלויות על משימות קידוד חוזרות (refactoring, type fixes)</li><li><i class="ph ph-check-square"></i> לחקור את ה-hierarchical topology עבור swarm של agents: architect → coder → tester – תבנית ישימה ב-OptiPlan ו-TailorPlayed</li></ul>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> לבחון שימוש ב-Ruflo כ-development tool לפרויקט taylor-played: הרץ npx ruflo@latest init --wizard בתוך repo הפרויקט וצפה כיצד agents מתמחים (coder/tester/reviewer) מתאמים עבודה</li><li><i class="ph ph-check-square"></i> לחקור את דפוס ה-smart routing של Ruflo (משימה פשוטה → WASM/מודל זול, מורכבת → מודל מיטבי) כהשראה לארכיטקטורת Multi-Agent ב-taylor-played עם Gemini API</li><li><i class="ph ph-check-square"></i> לבדוק את ה-plugin SDK של Ruflo ואת IPFS marketplace לרעיונות נוספים לארכיטקטורת orchestrator/specialist</li></ul>
         </div>
         
         <div class="card-section verification">
           <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
-          <ul class="card-list"><li>הסרטון טוען &#x27;14,000 כוכבים&#x27; – הריפו הנוכחי (ruflo) מציג 26k+ כוכבים; הנתון בסרטון שייך כנראה לריפו הישן (claude-flow) בזמן הצילום</li><li>טענת &#x27;חיסכון של 75% בעלויות API&#x27; מגיעה מה-README של הפרויקט בלבד, ללא benchmark עצמאי</li></ul>
+          <ul class="card-list"><li>טענת &#x27;75% חיסכון בעלויות Claude API&#x27; — לא נמצא אימות מדויק לנתון זה בתיעוד הרשמי; הריפו מציין smart routing ו-WASM לביצוע מקומי אך ללא אחוז מדויק זה</li><li>טענת &#x27;מדורג מספר 1 ב-agent frameworks ב-GitHub&#x27; — קשה לאמת; ספירת הכוכבים בסרטון (14,000) מיושנת, הריפו עומד על 27,100+ כוכבים נכון לבדיקה</li></ul>
         </div>
       </div>
       <div class="card-footer">
-        <div class="card-tags"><span class="tag">multi-agent</span><span class="tag">claude-code</span><span class="tag">orchestration</span><span class="tag">mcp</span><span class="tag">open-source</span></div>
+        <div class="card-tags"><span class="tag">multi-agent</span><span class="tag">claude-code</span><span class="tag">orchestration</span><span class="tag">open-source</span><span class="tag">mcp</span></div>
         <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
-        <a href="https://vt.tiktok.com/ZSuKoa9Wk" target="_blank" rel="noopener" class="card-source">
+        <a href="https://vt.tiktok.com/ZSH1d9VY3" target="_blank" rel="noopener" class="card-source">
           <i class="ph ph-arrow-square-out"></i> Source
         </a>
       </div>
     </article>
 
-    <article class="card" data-category="shalhevet" style="--accent:#FF6B35">
+    <article class="card" id="shalhevet-2026-03-26-claude-code-research-workflow-combining-skills-not" data-category="shalhevet" style="--accent:#FF6B35">
       <div class="card-glow"></div>
       <div class="card-header">
         <div class="card-icon"><i class="ph ph-flame"></i></div>
@@ -968,7 +979,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-03-27 15:48</p>
+      <p>Last updated: 2026-03-27 19:14</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
@@ -1073,6 +1084,23 @@
       details.classList.toggle('open', !isOpen);
       btn.classList.toggle('open', !isOpen);
     }
+
+    /* === Deep-link: scroll to specific card from URL hash === */
+    (function handleDeepLink() {
+      const hash = window.location.hash.slice(1);
+      if (!hash) return;
+      const target = document.getElementById(hash);
+      if (!target) return;
+      target.classList.add('revealed');
+      const details = target.querySelector('.card-details');
+      if (details) details.classList.add('open');
+      const expandBtn = target.querySelector('.expand-btn');
+      if (expandBtn) expandBtn.classList.add('open');
+      setTimeout(() => {
+        target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        target.classList.add('highlight-pulse');
+      }, 300);
+    })();
 
     /* === Scroll to top === */
     const scrollBtn = document.getElementById('scrollTop');
