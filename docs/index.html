@@ -760,17 +760,17 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="4">0</div>
+        <div class="stat-value" data-target="5">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
         <i class="ph ph-folders stat-icon"></i>
-        <div class="stat-value" data-target="3">0</div>
+        <div class="stat-value" data-target="4">0</div>
         <div class="stat-label">Categories</div>
       </div>
       <div class="stat">
         <i class="ph ph-star stat-icon"></i>
-        <div class="stat-value" data-target="3.2" data-decimal="true">0</div>
+        <div class="stat-value" data-target="3.4" data-decimal="true">0</div>
         <div class="stat-label">Avg Relevance</div>
       </div>
     </div>
@@ -787,6 +787,7 @@
 <button class="filter-btn" data-filter="elon-katzef" style="--btn-accent:#25F4EE"><i class="ph ph-brain"></i> Alon Katzef Advisory <span class="count">1</span></button>
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">1</span></button>
 <button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">2</span></button>
+<button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">1</span></button>
     </div>
 
     <div class="divider"></div>
@@ -795,6 +796,46 @@
     <div class="cards-container">
       <div class="cards-grid" id="cardsGrid">
         
+    <article class="card" id="optiplan-2026-03-28-website-pre-launch-security-operations-checklist-1" data-category="optiplan" style="--accent:#FE2C55">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-buildings"></i></div>
+        <div class="card-meta">
+          <span class="card-category">אופטיפלן &middot; OptiPlan</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-03-28 &middot; @Arjay McCandless</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים</h3>
+      <p class="card-title-en">Website Pre-Launch Security &amp; Operations Checklist (10 Points)</p>
+      <p class="card-summary">סרטון המציג 10 נקודות בדיקה קריטיות לפני השקת אפליקציית ווב לפרודקשן: אבטחה (Authorization, CORS, Rate Limiting, סינון קלטים), תפעול (Logging, Alerts, Rollback בגישת Blue-Green) וביצועים (אינדקסים ב-DB). הנקודות פרקטיות ומכסות את מרבית הסיכונים הנפוצים בהשקת SaaS. רלוונטי במיוחד לפני כל Release משמעותי של OptiPlan.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>Authorization — ודא שכל משתמש ניגש רק למשאבים שלו; ב-OptiPlan זה כולל בדיקת RBAC ו-multi-tenancy דרך Clerk כדי למנוע דליפה בין Organizations</li><li>Rate Limiting — חיוני למניעת חיובים בלתי צפויים; ניתן להגדיר ב-Convex functions או ב-Vercel Edge Middleware</li><li>Blue-Green Deployment — Vercel תומכת ב-instant rollback מובנה, כך שאין צורך בתשתית blue-green נפרדת; מספיק לוודא שה-Deployments הקודמים נשמרים</li><li>Database Indexing — הוסף אינדקסים רק לשדות הנשאלים בתדירות גבוהה; ב-Convex מוגדרים אינדקסים ב-schema.ts ומשפיעים על write overhead</li></ul>
+        </div>
+        
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> בנה Checklist פנימי ל-OptiPlan לפני כל Release: Authorization, Input Validation, CORS, Rate Limiting, Error Screens, DB Indexing, Logging, Alerts, Rollback</li><li><i class="ph ph-check-square"></i> בדוק שמדיניות Clerk RBAC מונעת גישה בין Organizations שונות ב-OptiPlan — בדיקת multi-tenant authorization</li><li><i class="ph ph-check-square"></i> הוסף Rate Limiting ל-Convex HTTP actions ו-public functions כדי למנוע ניצול לרעה</li></ul>
+        </div>
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הסרטון לא מציין כלים ספציפיים — כל ההמלצות עקרוניות ויש להתאים לכל Stack</li><li>טיפ ה-Blue-Green Deployment רלוונטי יותר לשרתים עצמאיים; ב-Vercel ה-rollback מובנה ואינו דורש תשתית נפרדת</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">security</span><span class="tag">pre-launch</span><span class="tag">saas</span><span class="tag">devops</span><span class="tag">authorization</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
     <article class="card" id="elon-katzef-2026-03-27-building-deterministic-automation-workflows-in-min" data-category="elon-katzef" style="--accent:#25F4EE">
       <div class="card-glow"></div>
       <div class="card-header">
@@ -979,7 +1020,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-03-27 19:14</p>
+      <p>Last updated: 2026-03-28 19:11</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
