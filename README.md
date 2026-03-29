@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-03-28 22:49
+> Last updated: 2026-03-29 19:13
 
-**Total notes:** 6 | **Categories:** 4
+**Total notes:** 7 | **Categories:** 4
 
 ---
 
@@ -21,10 +21,11 @@
 |------|-------|-------|--------|-----------|
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (3)
+### 🎲 טיילור פלייד — TailorPlayed (4)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-03-29 | 3 טכניקות עיצוב גרפי מהירות ללא ניסיון מקצועי | 3 Quick Graphic Design Layout Tricks for Non-Designers | [🔗](https://vt.tiktok.com/ZSHR9EsUt) | ⭐⭐ |
 | 2026-03-28 | 25 סגנונות עיצוב גרפי עם Nano Banana 2 — סקירה פרסומית | 25 Graphic Design Styles Recreated with Nano Banana 2 — Promo Video | [🔗](https://vt.tiktok.com/ZSHeC4HnH) | ⭐⭐ |
 | 2026-03-27 | יצירת סרטוני אנימציה עם Claude Code ו-Remotion — ללא תוכנות עריכה | Generating Animated Videos with Claude Code + Remotion Agent Skill — No Editing Software Needed | [🔗](https://vt.tiktok.com/ZSuosm8xj) | ⭐⭐⭐ |
 | 2026-03-27 | Ruflo (לשעבר Claude Flow) — פלטפורמת תזמור Multi-Agent לפיתוח תוכנה עם Claude Code | Ruflo (formerly Claude Flow) — Multi-Agent Orchestration Platform for Claude Code Development | [🔗](https://vt.tiktok.com/ZSH1d9VY3) | ⭐⭐⭐ |
@@ -42,6 +43,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-03-29 | טיילור פלייד | 3 טכניקות עיצוב גרפי מהירות ללא ניסיון מקצועי | 3 Quick Graphic Design Layout Tricks for Non-Designers | [🔗](https://vt.tiktok.com/ZSHR9EsUt) | ⭐⭐ |
 | 2026-03-28 | טיילור פלייד | 25 סגנונות עיצוב גרפי עם Nano Banana 2 — סקירה פרסומית | 25 Graphic Design Styles Recreated with Nano Banana 2 — Promo Video | [🔗](https://vt.tiktok.com/ZSHeC4HnH) | ⭐⭐ |
 | 2026-03-28 | אופטיפלן | רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים | Website Pre-Launch Security & Operations Checklist (10 Points) | [🔗](https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==) | ⭐⭐⭐⭐ |
 | 2026-03-27 | אלון קצף | בניית אוטומציות דטרמיניסטיות תוך דקה עם Claude Code ו-n8n דרך MCP | Building Deterministic Automation Workflows in Minutes with Claude Code + n8n via MCP | [🔗](https://vt.tiktok.com/ZSuKcuKxG/) | ⭐⭐⭐⭐ |
