@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-03-29 19:14
+> Last updated: 2026-03-29 19:20
 
-**Total notes:** 8 | **Categories:** 4
+**Total notes:** 9 | **Categories:** 5
 
 ---
 
@@ -37,6 +37,12 @@
 |------|-------|-------|--------|-----------|
 | 2026-03-28 | רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים | Website Pre-Launch Security & Operations Checklist (10 Points) | [🔗](https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==) | ⭐⭐⭐⭐ |
 
+### 📦 אחר — Other (1)
+
+| Date | כותרת | Title | Source | Relevance |
+|------|-------|-------|--------|-----------|
+| 2026-03-29 | TREK — מתכנן טיולים קבוצתיים self-hosted עם שיתוף פעולה בזמן אמת | TREK — Self-Hosted Group Trip Planner with Real-Time Collaboration | [🔗](https://vt.tiktok.com/ZSHRxbBMk) | ⭐ |
+
 
 ---
 
@@ -46,6 +52,7 @@
 |------|----------|-------|-------|--------|-----------|
 | 2026-03-29 | טיילור פלייד | 3 טכניקות עיצוב גרפי מהירות ללא ניסיון מקצועי | 3 Quick Graphic Design Layout Tricks for Non-Designers | [🔗](https://vt.tiktok.com/ZSHR9EsUt) | ⭐⭐ |
 | 2026-03-29 | טיילור פלייד | PreText: ספריית JavaScript למדידת טקסט ללא DOM ו-CSS | PreText: Pure-JS DOM-Free Text Measurement & Layout Library | [🔗](https://vt.tiktok.com/ZSHR9TNJb) | ⭐⭐⭐ |
+| 2026-03-29 | אחר | TREK — מתכנן טיולים קבוצתיים self-hosted עם שיתוף פעולה בזמן אמת | TREK — Self-Hosted Group Trip Planner with Real-Time Collaboration | [🔗](https://vt.tiktok.com/ZSHRxbBMk) | ⭐ |
 | 2026-03-28 | טיילור פלייד | 25 סגנונות עיצוב גרפי עם Nano Banana 2 — סקירה פרסומית | 25 Graphic Design Styles Recreated with Nano Banana 2 — Promo Video | [🔗](https://vt.tiktok.com/ZSHeC4HnH) | ⭐⭐ |
 | 2026-03-28 | אופטיפלן | רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים | Website Pre-Launch Security & Operations Checklist (10 Points) | [🔗](https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==) | ⭐⭐⭐⭐ |
 | 2026-03-27 | אלון קצף | בניית אוטומציות דטרמיניסטיות תוך דקה עם Claude Code ו-n8n דרך MCP | Building Deterministic Automation Workflows in Minutes with Claude Code + n8n via MCP | [🔗](https://vt.tiktok.com/ZSuKcuKxG/) | ⭐⭐⭐⭐ |
