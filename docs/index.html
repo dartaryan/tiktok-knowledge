@@ -760,17 +760,17 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="8">0</div>
+        <div class="stat-value" data-target="9">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
         <i class="ph ph-folders stat-icon"></i>
-        <div class="stat-value" data-target="4">0</div>
+        <div class="stat-value" data-target="5">0</div>
         <div class="stat-label">Categories</div>
       </div>
       <div class="stat">
         <i class="ph ph-star stat-icon"></i>
-        <div class="stat-value" data-target="3.0" data-decimal="true">0</div>
+        <div class="stat-value" data-target="2.8" data-decimal="true">0</div>
         <div class="stat-label">Avg Relevance</div>
       </div>
     </div>
@@ -788,6 +788,7 @@
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">1</span></button>
 <button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">5</span></button>
 <button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">1</span></button>
+<button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">1</span></button>
     </div>
 
     <div class="divider"></div>
@@ -879,6 +880,46 @@
         <div class="card-tags"><span class="tag">javascript</span><span class="tag">text-layout</span><span class="tag">performance</span><span class="tag">canvas</span><span class="tag">dom-free</span></div>
         <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
         <a href="https://vt.tiktok.com/ZSHR9TNJb" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
+    <article class="card" id="other-2026-03-29-trek-self-hosted-group-trip-planner-with-real-time" data-category="other" style="--accent:#8A8B91">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-package"></i></div>
+        <div class="card-meta">
+          <span class="card-category">אחר &middot; Other</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-03-29 &middot; @github.awesome</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">TREK — מתכנן טיולים קבוצתיים self-hosted עם שיתוף פעולה בזמן אמת</h3>
+      <p class="card-title-en">TREK — Self-Hosted Group Trip Planner with Real-Time Collaboration</p>
+      <p class="card-summary">TREK הוא כלי קוד פתוח לתכנון טיולים קבוצתיים, המתארח עצמאית (self-hosted) ומציע לוח זמנים בגרירה ושחרור, מפות אינטראקטיביות, מעקב אחר טיסות ותקציב, ורשימות אריזה. הכלי תומך בשיתוף פעולה בזמן אמת דרך WebSockets ומוגדר כ-PWA (Progressive Web App), כך שחברים יכולים להתקין אותו ישירות מהדפדפן ללא App Store. אינו רלוונטי לאף אחד מהפרויקטים הפעילים.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>הגישה של TREK לאפשר התקנת PWA ישירות מהדפדפן (ללא App Store) היא פטרן מעניין שעשוי לשמש השראה ל-taylor-played אם נרצה להנגיש את הפלטפורמה לנייד ללא פיתוח אפליקציה נפרדת</li><li>הארכיטקטורה: Node.js 22 + Express + SQLite בצד שרת, WebSockets לסנכרון בזמן אמת — פשוטה ויעילה לפרויקטי צוות קטן</li><li>תמיכה ב-SSO דרך OIDC (Google, Apple, Keycloak) — יכולה לשמש דוגמה ל-optiplan בנושא ניהול הרשאות ארגוניות</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[TREK](https://github.com/mauriceboe/TREK) | https://github.com/mauriceboe/TREK | מתכנן טיולים קבוצתיים קוד פתוח, self-hosted, עם מפות, תקציב, רשימות אריזה ו-PWA</li></ul>
+        </div>
+        
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הטענה שחברים יכולים להתקין את האפליקציה ישירות לטלפון ללא App Store — מאומתת: TREK היא PWA תקנית המשתמשת ב-Service Worker דרך Workbox, ותואמת iOS ו-Android</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">self-hosted</span><span class="tag">travel</span><span class="tag">pwa</span><span class="tag">open-source</span><span class="tag">real-time</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://vt.tiktok.com/ZSHRxbBMk" target="_blank" rel="noopener" class="card-source">
           <i class="ph ph-arrow-square-out"></i> Source
         </a>
       </div>
@@ -1152,7 +1193,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-03-29 19:14</p>
+      <p>Last updated: 2026-03-29 19:20</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
