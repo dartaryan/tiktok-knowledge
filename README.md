@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-03-30 18:12
+> Last updated: 2026-03-30 21:26
 
-**Total notes:** 11 | **Categories:** 5
+**Total notes:** 12 | **Categories:** 5
 
 ---
 
@@ -22,11 +22,12 @@
 |------|-------|-------|--------|-----------|
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (6)
+### 🎲 טיילור פלייד — TailorPlayed (7)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
 | 2026-03-30 | 25 סגנונות עיצוב גרפי ושחזורם עם Nano Banana 2 | 25 Graphic Design Styles and How to Recreate Them with Nano Banana 2 | [🔗](https://www.instagram.com/reel/DWWxWR1gs_W/?igsh=MWgyYnc5NXZ5Mzl3eQ==) | ⭐⭐ |
+| 2026-03-30 | יצירת אנימציית גלילה קולנועית בעזרת AI: Google Whisk + Flow + Cursor | Cinematic Scroll Animation Workflow Using AI: Google Whisk, Google Flow, and Cursor | [🔗](https://www.instagram.com/reel/DU5kTvmjeBH/?igsh=MW51c2RpemptOW1oeQ==) | ⭐⭐⭐ |
 | 2026-03-29 | 3 טכניקות עיצוב גרפי מהירות ללא ניסיון מקצועי | 3 Quick Graphic Design Layout Tricks for Non-Designers | [🔗](https://vt.tiktok.com/ZSHR9EsUt) | ⭐⭐ |
 | 2026-03-29 | PreText: ספריית JavaScript למדידת טקסט ללא DOM ו-CSS | PreText: Pure-JS DOM-Free Text Measurement & Layout Library | [🔗](https://vt.tiktok.com/ZSHR9TNJb) | ⭐⭐⭐ |
 | 2026-03-28 | 25 סגנונות עיצוב גרפי עם Nano Banana 2 — סקירה פרסומית | 25 Graphic Design Styles Recreated with Nano Banana 2 — Promo Video | [🔗](https://vt.tiktok.com/ZSHeC4HnH) | ⭐⭐ |
@@ -54,6 +55,7 @@
 |------|----------|-------|-------|--------|-----------|
 | 2026-03-30 | אלון קצף | Office CLI – כלי שורת פקודה לסוכני AI לאוטומציה של קבצי Word, Excel ו-PowerPoint ללא Microsoft Office | Office CLI – AI Agent-Native CLI for Word/Excel/PowerPoint Without Microsoft Office | [🔗](https://vt.tiktok.com/ZSHLDko6o) | ⭐⭐⭐⭐ |
 | 2026-03-30 | טיילור פלייד | 25 סגנונות עיצוב גרפי ושחזורם עם Nano Banana 2 | 25 Graphic Design Styles and How to Recreate Them with Nano Banana 2 | [🔗](https://www.instagram.com/reel/DWWxWR1gs_W/?igsh=MWgyYnc5NXZ5Mzl3eQ==) | ⭐⭐ |
+| 2026-03-30 | טיילור פלייד | יצירת אנימציית גלילה קולנועית בעזרת AI: Google Whisk + Flow + Cursor | Cinematic Scroll Animation Workflow Using AI: Google Whisk, Google Flow, and Cursor | [🔗](https://www.instagram.com/reel/DU5kTvmjeBH/?igsh=MW51c2RpemptOW1oeQ==) | ⭐⭐⭐ |
 | 2026-03-29 | טיילור פלייד | 3 טכניקות עיצוב גרפי מהירות ללא ניסיון מקצועי | 3 Quick Graphic Design Layout Tricks for Non-Designers | [🔗](https://vt.tiktok.com/ZSHR9EsUt) | ⭐⭐ |
 | 2026-03-29 | טיילור פלייד | PreText: ספריית JavaScript למדידת טקסט ללא DOM ו-CSS | PreText: Pure-JS DOM-Free Text Measurement & Layout Library | [🔗](https://vt.tiktok.com/ZSHR9TNJb) | ⭐⭐⭐ |
 | 2026-03-29 | אחר | TREK — מתכנן טיולים קבוצתיים self-hosted עם שיתוף פעולה בזמן אמת | TREK — Self-Hosted Group Trip Planner with Real-Time Collaboration | [🔗](https://vt.tiktok.com/ZSHRxbBMk) | ⭐ |
