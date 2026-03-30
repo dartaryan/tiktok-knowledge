@@ -1,18 +1,19 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-03-29 19:20
+> Last updated: 2026-03-30 13:14
 
-**Total notes:** 9 | **Categories:** 5
+**Total notes:** 10 | **Categories:** 5
 
 ---
 
 ## 📊 By Category
 
-### 🧠 אלון קצף — Alon Katzef Advisory (1)
+### 🧠 אלון קצף — Alon Katzef Advisory (2)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-03-30 | Office CLI – כלי שורת פקודה לסוכני AI לאוטומציה של קבצי Word, Excel ו-PowerPoint ללא Microsoft Office | Office CLI – AI Agent-Native CLI for Word/Excel/PowerPoint Without Microsoft Office | [🔗](https://vt.tiktok.com/ZSHLDko6o) | ⭐⭐⭐⭐ |
 | 2026-03-27 | בניית אוטומציות דטרמיניסטיות תוך דקה עם Claude Code ו-n8n דרך MCP | Building Deterministic Automation Workflows in Minutes with Claude Code + n8n via MCP | [🔗](https://vt.tiktok.com/ZSuKcuKxG/) | ⭐⭐⭐⭐ |
 
 ### 🔥 שלהבת — Shalhevet AI Training (1)
@@ -50,6 +51,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-03-30 | אלון קצף | Office CLI – כלי שורת פקודה לסוכני AI לאוטומציה של קבצי Word, Excel ו-PowerPoint ללא Microsoft Office | Office CLI – AI Agent-Native CLI for Word/Excel/PowerPoint Without Microsoft Office | [🔗](https://vt.tiktok.com/ZSHLDko6o) | ⭐⭐⭐⭐ |
 | 2026-03-29 | טיילור פלייד | 3 טכניקות עיצוב גרפי מהירות ללא ניסיון מקצועי | 3 Quick Graphic Design Layout Tricks for Non-Designers | [🔗](https://vt.tiktok.com/ZSHR9EsUt) | ⭐⭐ |
 | 2026-03-29 | טיילור פלייד | PreText: ספריית JavaScript למדידת טקסט ללא DOM ו-CSS | PreText: Pure-JS DOM-Free Text Measurement & Layout Library | [🔗](https://vt.tiktok.com/ZSHR9TNJb) | ⭐⭐⭐ |
 | 2026-03-29 | אחר | TREK — מתכנן טיולים קבוצתיים self-hosted עם שיתוף פעולה בזמן אמת | TREK — Self-Hosted Group Trip Planner with Real-Time Collaboration | [🔗](https://vt.tiktok.com/ZSHRxbBMk) | ⭐ |
