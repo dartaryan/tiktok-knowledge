@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-07 07:50
+> Last updated: 2026-04-07 11:24
 
-**Total notes:** 16 | **Categories:** 5
+**Total notes:** 17 | **Categories:** 5
 
 ---
 
@@ -22,10 +22,11 @@
 |------|-------|-------|--------|-----------|
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (9)
+### 🎲 טיילור פלייד — TailorPlayed (10)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-07 | שלוש Claude Code Skills לשיפור עיצוב UI: אנימציות, עיצוב ופולישינג | 3 Claude Code Design Skills for Better UI: Emil Kowalski Animations, Impeccable Design, Taste-Skill | [🔗](https://vt.tiktok.com/ZSHP3xvBW) | ⭐⭐⭐⭐ |
 | 2026-04-04 | Lenis — ספריית Smooth Scroll קלילה עם אינטגרציה ל-GSAP | Lenis — Lightweight Smooth Scroll Library with GSAP Integration | [🔗](https://vt.tiktok.com/ZSHBdEyCx) | ⭐⭐ |
 | 2026-04-04 | אנימציית גלילה לאתרים: Kling AI + Claude Code + WebP Frames | Scroll-Triggered Web Animations Using Kling AI Video + Claude Code Frame Extraction | [🔗](https://vt.tiktok.com/ZSHS1d9K5) | ⭐⭐⭐ |
 | 2026-03-30 | 25 סגנונות עיצוב גרפי ושחזורם עם Nano Banana 2 | 25 Graphic Design Styles and How to Recreate Them with Nano Banana 2 | [🔗](https://www.instagram.com/reel/DWWxWR1gs_W/?igsh=MWgyYnc5NXZ5Mzl3eQ==) | ⭐⭐ |
@@ -57,6 +58,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-07 | טיילור פלייד | שלוש Claude Code Skills לשיפור עיצוב UI: אנימציות, עיצוב ופולישינג | 3 Claude Code Design Skills for Better UI: Emil Kowalski Animations, Impeccable Design, Taste-Skill | [🔗](https://vt.tiktok.com/ZSHP3xvBW) | ⭐⭐⭐⭐ |
 | 2026-04-07 | אחר | אתר להורדת מודלים תלת-ממדיים – כלי, רהיטים, רכבים ועוד | Website for Downloading Free 3D Models (Cars, Furniture, Electronics) | [🔗](https://www.instagram.com/reel/DWd-sLjgUc6/?igsh=MTZnbXJvaHU2NXFzdQ==) | ⭐⭐ |
 | 2026-04-05 | אופטיפלן | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
 | 2026-04-04 | טיילור פלייד | Lenis — ספריית Smooth Scroll קלילה עם אינטגרציה ל-GSAP | Lenis — Lightweight Smooth Scroll Library with GSAP Integration | [🔗](https://vt.tiktok.com/ZSHBdEyCx) | ⭐⭐ |
