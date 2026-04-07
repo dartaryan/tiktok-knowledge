@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-07 12:22
+> Last updated: 2026-04-07 20:03
 
-**Total notes:** 18 | **Categories:** 5
+**Total notes:** 19 | **Categories:** 5
 
 ---
 
@@ -44,11 +44,12 @@
 | 2026-04-05 | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
 | 2026-03-28 | רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים | Website Pre-Launch Security & Operations Checklist (10 Points) | [🔗](https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==) | ⭐⭐⭐⭐ |
 
-### 📦 אחר — Other (3)
+### 📦 אחר — Other (4)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
 | 2026-04-07 | סרטון טיקטוק מסדרת 'אתרים עוצמתיים' — כלי AI לעיצוב מוצר עם רשימת חלקים, תרשימי חיווט ו-CAD | TikTok 'Powerful Websites' Series — AI Product Design Generator with BOM, Wiring Diagrams & CAD | [🔗](https://vt.tiktok.com/ZSH51U991) | ⭐ |
+| 2026-04-07 | TREK — פלטפורמת תכנון טיולים קולאבורטיבית ופתוחה לאחסון עצמי | TREK — Self-Hosted Open Source Collaborative Travel Planner | [🔗](https://vt.tiktok.com/ZSH5bndRB) | ⭐⭐ |
 | 2026-04-07 | אתר להורדת מודלים תלת-ממדיים – כלי, רהיטים, רכבים ועוד | Website for Downloading Free 3D Models (Cars, Furniture, Electronics) | [🔗](https://www.instagram.com/reel/DWd-sLjgUc6/?igsh=MTZnbXJvaHU2NXFzdQ==) | ⭐⭐ |
 | 2026-03-29 | TREK — מתכנן טיולים קבוצתיים self-hosted עם שיתוף פעולה בזמן אמת | TREK — Self-Hosted Group Trip Planner with Real-Time Collaboration | [🔗](https://vt.tiktok.com/ZSHRxbBMk) | ⭐ |
 
@@ -61,6 +62,7 @@
 |------|----------|-------|-------|--------|-----------|
 | 2026-04-07 | טיילור פלייד | שלוש Claude Code Skills לשיפור עיצוב UI: אנימציות, עיצוב ופולישינג | 3 Claude Code Design Skills for Better UI: Emil Kowalski Animations, Impeccable Design, Taste-Skill | [🔗](https://vt.tiktok.com/ZSHP3xvBW) | ⭐⭐⭐⭐ |
 | 2026-04-07 | אחר | סרטון טיקטוק מסדרת 'אתרים עוצמתיים' — כלי AI לעיצוב מוצר עם רשימת חלקים, תרשימי חיווט ו-CAD | TikTok 'Powerful Websites' Series — AI Product Design Generator with BOM, Wiring Diagrams & CAD | [🔗](https://vt.tiktok.com/ZSH51U991) | ⭐ |
+| 2026-04-07 | אחר | TREK — פלטפורמת תכנון טיולים קולאבורטיבית ופתוחה לאחסון עצמי | TREK — Self-Hosted Open Source Collaborative Travel Planner | [🔗](https://vt.tiktok.com/ZSH5bndRB) | ⭐⭐ |
 | 2026-04-07 | אחר | אתר להורדת מודלים תלת-ממדיים – כלי, רהיטים, רכבים ועוד | Website for Downloading Free 3D Models (Cars, Furniture, Electronics) | [🔗](https://www.instagram.com/reel/DWd-sLjgUc6/?igsh=MTZnbXJvaHU2NXFzdQ==) | ⭐⭐ |
 | 2026-04-05 | אופטיפלן | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
 | 2026-04-04 | טיילור פלייד | Lenis — ספריית Smooth Scroll קלילה עם אינטגרציה ל-GSAP | Lenis — Lightweight Smooth Scroll Library with GSAP Integration | [🔗](https://vt.tiktok.com/ZSHBdEyCx) | ⭐⭐ |
