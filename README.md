@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-05 23:45
+> Last updated: 2026-04-07 07:50
 
-**Total notes:** 15 | **Categories:** 5
+**Total notes:** 16 | **Categories:** 5
 
 ---
 
@@ -43,10 +43,11 @@
 | 2026-04-05 | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
 | 2026-03-28 | רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים | Website Pre-Launch Security & Operations Checklist (10 Points) | [🔗](https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==) | ⭐⭐⭐⭐ |
 
-### 📦 אחר — Other (1)
+### 📦 אחר — Other (2)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-07 | אתר להורדת מודלים תלת-ממדיים – כלי, רהיטים, רכבים ועוד | Website for Downloading Free 3D Models (Cars, Furniture, Electronics) | [🔗](https://www.instagram.com/reel/DWd-sLjgUc6/?igsh=MTZnbXJvaHU2NXFzdQ==) | ⭐⭐ |
 | 2026-03-29 | TREK — מתכנן טיולים קבוצתיים self-hosted עם שיתוף פעולה בזמן אמת | TREK — Self-Hosted Group Trip Planner with Real-Time Collaboration | [🔗](https://vt.tiktok.com/ZSHRxbBMk) | ⭐ |
 
 
@@ -56,6 +57,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-07 | אחר | אתר להורדת מודלים תלת-ממדיים – כלי, רהיטים, רכבים ועוד | Website for Downloading Free 3D Models (Cars, Furniture, Electronics) | [🔗](https://www.instagram.com/reel/DWd-sLjgUc6/?igsh=MTZnbXJvaHU2NXFzdQ==) | ⭐⭐ |
 | 2026-04-05 | אופטיפלן | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
 | 2026-04-04 | טיילור פלייד | Lenis — ספריית Smooth Scroll קלילה עם אינטגרציה ל-GSAP | Lenis — Lightweight Smooth Scroll Library with GSAP Integration | [🔗](https://vt.tiktok.com/ZSHBdEyCx) | ⭐⭐ |
 | 2026-04-04 | טיילור פלייד | אנימציית גלילה לאתרים: Kling AI + Claude Code + WebP Frames | Scroll-Triggered Web Animations Using Kling AI Video + Claude Code Frame Extraction | [🔗](https://vt.tiktok.com/ZSHS1d9K5) | ⭐⭐⭐ |
