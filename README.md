@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-07 20:03
+> Last updated: 2026-04-08 15:54
 
-**Total notes:** 19 | **Categories:** 5
+**Total notes:** 20 | **Categories:** 5
 
 ---
 
@@ -22,10 +22,11 @@
 |------|-------|-------|--------|-----------|
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (10)
+### 🎲 טיילור פלייד — TailorPlayed (11)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-08 | HTML בתוך Canvas: API ניסיוני לרינדור אלמנטי HTML בתוך אלמנט Canvas | HTML-in-Canvas API: Rendering Live HTML Elements Inside a Canvas | [🔗](https://vt.tiktok.com/ZSHmsyXb8) | ⭐⭐ |
 | 2026-04-07 | שלוש Claude Code Skills לשיפור עיצוב UI: אנימציות, עיצוב ופולישינג | 3 Claude Code Design Skills for Better UI: Emil Kowalski Animations, Impeccable Design, Taste-Skill | [🔗](https://vt.tiktok.com/ZSHP3xvBW) | ⭐⭐⭐⭐ |
 | 2026-04-04 | Lenis — ספריית Smooth Scroll קלילה עם אינטגרציה ל-GSAP | Lenis — Lightweight Smooth Scroll Library with GSAP Integration | [🔗](https://vt.tiktok.com/ZSHBdEyCx) | ⭐⭐ |
 | 2026-04-04 | אנימציית גלילה לאתרים: Kling AI + Claude Code + WebP Frames | Scroll-Triggered Web Animations Using Kling AI Video + Claude Code Frame Extraction | [🔗](https://vt.tiktok.com/ZSHS1d9K5) | ⭐⭐⭐ |
@@ -60,6 +61,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-08 | טיילור פלייד | HTML בתוך Canvas: API ניסיוני לרינדור אלמנטי HTML בתוך אלמנט Canvas | HTML-in-Canvas API: Rendering Live HTML Elements Inside a Canvas | [🔗](https://vt.tiktok.com/ZSHmsyXb8) | ⭐⭐ |
 | 2026-04-07 | טיילור פלייד | שלוש Claude Code Skills לשיפור עיצוב UI: אנימציות, עיצוב ופולישינג | 3 Claude Code Design Skills for Better UI: Emil Kowalski Animations, Impeccable Design, Taste-Skill | [🔗](https://vt.tiktok.com/ZSHP3xvBW) | ⭐⭐⭐⭐ |
 | 2026-04-07 | אחר | סרטון טיקטוק מסדרת 'אתרים עוצמתיים' — כלי AI לעיצוב מוצר עם רשימת חלקים, תרשימי חיווט ו-CAD | TikTok 'Powerful Websites' Series — AI Product Design Generator with BOM, Wiring Diagrams & CAD | [🔗](https://vt.tiktok.com/ZSH51U991) | ⭐ |
 | 2026-04-07 | אחר | TREK — פלטפורמת תכנון טיולים קולאבורטיבית ופתוחה לאחסון עצמי | TREK — Self-Hosted Open Source Collaborative Travel Planner | [🔗](https://vt.tiktok.com/ZSH5bndRB) | ⭐⭐ |
