@@ -760,7 +760,7 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="19">0</div>
+        <div class="stat-value" data-target="20">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
@@ -786,7 +786,7 @@
       <button class="filter-btn active" data-filter="all"><i class="ph ph-squares-four"></i> All</button>
 <button class="filter-btn" data-filter="elon-katzef" style="--btn-accent:#25F4EE"><i class="ph ph-brain"></i> Alon Katzef Advisory <span class="count">2</span></button>
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">1</span></button>
-<button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">10</span></button>
+<button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">11</span></button>
 <button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">2</span></button>
 <button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">4</span></button>
     </div>
@@ -797,6 +797,50 @@
     <div class="cards-container">
       <div class="cards-grid" id="cardsGrid">
         
+    <article class="card" id="taylor-played-2026-04-08-html-in-canvas-api-rendering-live-html-elements-in" data-category="taylor-played" style="--accent:#A855F7">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-game-controller"></i></div>
+        <div class="card-meta">
+          <span class="card-category">טיילור פלייד &middot; TailorPlayed</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-04-08 &middot; @wesbos</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">HTML בתוך Canvas: API ניסיוני לרינדור אלמנטי HTML בתוך אלמנט Canvas</h3>
+      <p class="card-title-en">HTML-in-Canvas API: Rendering Live HTML Elements Inside a Canvas</p>
+      <p class="card-summary">ה-HTML in Canvas API הוא הצעה ניסיונית של WICG המאפשרת לרנדר אלמנטי HTML רגילים (כולל אינטראקטיביים כמו input) בתוך אלמנט Canvas, מה שמאפשר להחיל עליהם אפקטים ויזואליים גרפיים. ה-API זמין כרגע רק מאחורי פלאג בדפדפן Chromium ואינו סטנדרט רשת מאושר. שימושי בעיקר לאפקטי UI יצירתיים, תפריטי משחק ורכיבי תרשימים.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>ה-API פותר בעיה עמוקה: עד היום לא הייתה דרך קלה לרנדר HTML מורכב (טקסט, layouts) בתוך Canvas – דבר שגרם לבעיות נגישות, ביצועים ואיכות ב-Canvas-based content</li><li>כדי להפעיל: יש לפתוח chrome://flags/#canvas-draw-element ב-Chrome ולהפעיל את הפלאג – לא מיועד לפרודקשן</li><li>יישומים פוטנציאליים רלוונטיים ל-taylor-played: תפריטי משחק עם אפקטים, טקסט מעוצב בתוך Canvas של board game, אנימציות UI על גבי אלמנטים אינטראקטיביים</li><li>רלוונטי גם ל-optiplan אם בעתיד יהיה צורך בחיפוי אפקטים ויזואליים על גבי dashboard charts</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[HTML in Canvas API (WICG Proposal)](https://github.com/WICG/html-in-canvas) | https://github.com/WICG/html-in-canvas | הצעת WICG לרינדור אלמנטי HTML ישירות לתוך Canvas, עם תמיכה באינטראקטיביות מלאה</li><li>[Chromium Flag: canvas-draw-element](chrome://flags/#canvas-draw-element) | chrome://flags/#canvas-draw-element | פלאג ניסיוני ב-Chrome שמפעיל את יכולת ה-HTML-in-Canvas</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> לפתוח chrome://flags/#canvas-draw-element ב-Chrome ולהפעיל את הפלאג לצורך ניסוי</li><li><i class="ph ph-check-square"></i> לבחון את ה-repo של WICG/html-in-canvas ולהבין את ה-API של drawElementImage לשימוש עתידי ב-taylor-played</li></ul>
+        </div>
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>ה-API זמין רק מאחורי פלאג ב-Chromium ואינו סטנדרט מאושר – לא מתאים לשימוש בפרודקשן כרגע</li><li>הסרטון מציג demo של &#x27;shooting game&#x27; עם HTML input שמרנדר ל-Canvas – הטענה שהאלמנט נשאר &#x27;regular input box&#x27; ב-DevTools דורשת בדיקה מול ה-spec</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">canvas</span><span class="tag">html-api</span><span class="tag">web-platform</span><span class="tag">browser-experimental</span><span class="tag">game-ui</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://vt.tiktok.com/ZSHmsyXb8" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
     <article class="card" id="taylor-played-2026-04-07-3-claude-code-design-skills-for-better-ui-emil-kow" data-category="taylor-played" style="--accent:#A855F7">
       <div class="card-glow"></div>
       <div class="card-header">
@@ -1625,7 +1669,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-04-07 20:03</p>
+      <p>Last updated: 2026-04-08 15:54</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
