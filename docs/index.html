@@ -760,7 +760,7 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="20">0</div>
+        <div class="stat-value" data-target="21">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
@@ -787,7 +787,7 @@
 <button class="filter-btn" data-filter="elon-katzef" style="--btn-accent:#25F4EE"><i class="ph ph-brain"></i> Alon Katzef Advisory <span class="count">2</span></button>
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">1</span></button>
 <button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">11</span></button>
-<button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">2</span></button>
+<button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">3</span></button>
 <button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">4</span></button>
     </div>
 
@@ -797,6 +797,50 @@
     <div class="cards-container">
       <div class="cards-grid" id="cardsGrid">
         
+    <article class="card" id="optiplan-2026-04-09-graphify-claude-code-skill-that-turns-any-folder-i" data-category="optiplan" style="--accent:#FE2C55">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-buildings"></i></div>
+        <div class="card-meta">
+          <span class="card-category">אופטיפלן &middot; OptiPlan</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-04-09 &middot; @github.awesome</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">Graphify — כלי Claude Code לבניית גרף ידע אינטראקטיבי מקוד, PDFs וצילומי מסך</h3>
+      <p class="card-title-en">Graphify — Claude Code Skill That Turns Any Folder Into a Queryable Knowledge Graph</p>
+      <p class="card-summary">Graphify הוא skill עבור Claude Code (ועוד AI coding assistants) שקורא כל תוכן בתיקייה — קוד, Markdown, PDFs, תמונות — ובונה ממנו גרף ידע ויזואלי, Obsidian vault, wiki בסגנון ויקיפדיה, ו-GRAPH_REPORT.md עם &#x27;god nodes&#x27; וחיבורים מפתיעים. הכלי רץ לוקאלית לחלוטין ללא שרת חיצוני, ומשתמש ב-Tree-sitter ו-NetworkX לחילוץ מבנה מ-19 שפות תכנות. יכול להיות שימושי במיוחד לניווט ב-NX monorepo מורכב של optiplan.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>הטענה על חיסכון של 71.5x ב-tokens היא מדויקת רק עבור corpus של 52+ קבצים — ב-corpus קטן, הערך הוא בהירות מבנית ולא חיסכון בטוקנים</li><li>כל קשר בגרף מסומן EXTRACTED / INFERRED / AMBIGUOUS — כך ה-AI יודע מה נמצא לעומת מה שנוסק</li><li>ניתן להתקין git hook (graphify hook install) שמאחזר את הגרף אוטומטית אחרי כל commit — שימושי ב-NX monorepo עם שינויים תכופים</li><li>ה-wiki mode (--wiki) מייצר מאמרים בסגנון ויקיפדיה עם index.md — agent יכול לנווט בידע בלי לפרסר JSON</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[Graphify](https://github.com/safishamsi/graphify) | https://github.com/safishamsi/graphify | Claude Code skill לבניית גרף ידע מרובה-מודאלי מקוד, מסמכים ותמונות — רץ לוקאלית</li><li>[Graphify (PyPI)](https://graphify.net/) | https://graphify.net/ | אתר הבית של Graphify עם הוראות התקנה דרך pip install graphifyy</li><li>[Claude Code](https://docs.anthropic.com/en/docs/claude-code) | https://docs.anthropic.com/en/docs/claude-code | סביבת הפיתוח הראשית שבה Graphify פועל כ-skill</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> הרץ pip install graphifyy &amp;&amp; graphify install ואז /graphify על תיקיית הפרויקט של optiplan כדי לזהות god nodes ו-dependencies מסובכים ב-NX monorepo</li><li><i class="ph ph-check-square"></i> נסה את --wiki flag לייצר wiki index שאפשר לתת ל-AI agent כנקודת כניסה לניווט בקוד</li><li><i class="ph ph-check-square"></i> שקול להתקין את git hook (graphify hook install) כדי שהגרף יתעדכן אוטומטית אחרי כל commit</li></ul>
+        </div>
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הטענה של &#x27;71.5x fewer tokens&#x27; מאומתת בקוד המקור, אך תקפה רק ב-52+ קבצים — ב-corpus קטן יותר אין חיסכון בטוקנים, רק בהירות מבנית</li><li>הכלי פורסם לפני 2-3 ימים בלבד — ייתכן שיש bugs ו-edge cases לא מתועדים, לא מתאים לסביבת production עדיין</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">knowledge-graph</span><span class="tag">claude-code</span><span class="tag">codebase-navigation</span><span class="tag">ai-tooling</span><span class="tag">developer-productivity</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://vt.tiktok.com/ZSH9pyA58" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
     <article class="card" id="taylor-played-2026-04-08-html-in-canvas-api-rendering-live-html-elements-in" data-category="taylor-played" style="--accent:#A855F7">
       <div class="card-glow"></div>
       <div class="card-header">
@@ -1669,7 +1713,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-04-08 15:54</p>
+      <p>Last updated: 2026-04-09 23:52</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
