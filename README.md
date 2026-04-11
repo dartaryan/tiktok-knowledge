@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-09 23:52
+> Last updated: 2026-04-11 02:23
 
-**Total notes:** 21 | **Categories:** 5
+**Total notes:** 22 | **Categories:** 5
 
 ---
 
@@ -38,10 +38,11 @@
 | 2026-03-27 | יצירת סרטוני אנימציה עם Claude Code ו-Remotion — ללא תוכנות עריכה | Generating Animated Videos with Claude Code + Remotion Agent Skill — No Editing Software Needed | [🔗](https://vt.tiktok.com/ZSuosm8xj) | ⭐⭐⭐ |
 | 2026-03-27 | Ruflo (לשעבר Claude Flow) — פלטפורמת תזמור Multi-Agent לפיתוח תוכנה עם Claude Code | Ruflo (formerly Claude Flow) — Multi-Agent Orchestration Platform for Claude Code Development | [🔗](https://vt.tiktok.com/ZSH1d9VY3) | ⭐⭐⭐ |
 
-### 🏗️ אופטיפלן — OptiPlan (3)
+### 🏗️ אופטיפלן — OptiPlan (4)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-11 | MemPalace — מערכת זיכרון פתוחה ל-AI המבוססת על "ארמון הזיכרון" היווני | MemPalace — Open-Source AI Memory System Inspired by the Ancient Method of Loci | [🔗](https://vt.tiktok.com/ZSHCSTCLG) | ⭐⭐⭐ |
 | 2026-04-09 | Graphify — כלי Claude Code לבניית גרף ידע אינטראקטיבי מקוד, PDFs וצילומי מסך | Graphify — Claude Code Skill That Turns Any Folder Into a Queryable Knowledge Graph | [🔗](https://vt.tiktok.com/ZSH9pyA58) | ⭐⭐⭐ |
 | 2026-04-05 | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
 | 2026-03-28 | רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים | Website Pre-Launch Security & Operations Checklist (10 Points) | [🔗](https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==) | ⭐⭐⭐⭐ |
@@ -62,6 +63,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-11 | אופטיפלן | MemPalace — מערכת זיכרון פתוחה ל-AI המבוססת על "ארמון הזיכרון" היווני | MemPalace — Open-Source AI Memory System Inspired by the Ancient Method of Loci | [🔗](https://vt.tiktok.com/ZSHCSTCLG) | ⭐⭐⭐ |
 | 2026-04-09 | אופטיפלן | Graphify — כלי Claude Code לבניית גרף ידע אינטראקטיבי מקוד, PDFs וצילומי מסך | Graphify — Claude Code Skill That Turns Any Folder Into a Queryable Knowledge Graph | [🔗](https://vt.tiktok.com/ZSH9pyA58) | ⭐⭐⭐ |
 | 2026-04-08 | טיילור פלייד | HTML בתוך Canvas: API ניסיוני לרינדור אלמנטי HTML בתוך אלמנט Canvas | HTML-in-Canvas API: Rendering Live HTML Elements Inside a Canvas | [🔗](https://vt.tiktok.com/ZSHmsyXb8) | ⭐⭐ |
 | 2026-04-07 | טיילור פלייד | שלוש Claude Code Skills לשיפור עיצוב UI: אנימציות, עיצוב ופולישינג | 3 Claude Code Design Skills for Better UI: Emil Kowalski Animations, Impeccable Design, Taste-Skill | [🔗](https://vt.tiktok.com/ZSHP3xvBW) | ⭐⭐⭐⭐ |
