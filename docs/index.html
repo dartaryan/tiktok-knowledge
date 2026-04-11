@@ -760,7 +760,7 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="21">0</div>
+        <div class="stat-value" data-target="22">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
@@ -787,7 +787,7 @@
 <button class="filter-btn" data-filter="elon-katzef" style="--btn-accent:#25F4EE"><i class="ph ph-brain"></i> Alon Katzef Advisory <span class="count">2</span></button>
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">1</span></button>
 <button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">11</span></button>
-<button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">3</span></button>
+<button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">4</span></button>
 <button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">4</span></button>
     </div>
 
@@ -797,6 +797,50 @@
     <div class="cards-container">
       <div class="cards-grid" id="cardsGrid">
         
+    <article class="card" id="optiplan-2026-04-11-mempalace-open-source-ai-memory-system-inspired-by" data-category="optiplan" style="--accent:#FE2C55">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-buildings"></i></div>
+        <div class="card-meta">
+          <span class="card-category">אופטיפלן &middot; OptiPlan</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-04-11 &middot; @github.awesome</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">MemPalace — מערכת זיכרון פתוחה ל-AI המבוססת על &quot;ארמון הזיכרון&quot; היווני</h3>
+      <p class="card-title-en">MemPalace — Open-Source AI Memory System Inspired by the Ancient Method of Loci</p>
+      <p class="card-summary">השחקנית מילה יובוביץ&#x27; ומהנדס בשם Ben Sigman שחררו בקוד פתוח מערכת זיכרון ל-LLM בשם MemPalace, שמאחסנת שיחות verbatim ומאורגנת כ&quot;ארמון זיכרון&quot; עם כנפות (wings), אולמות (halls) וחדרים (rooms) — במקום חיפוש שטוח ב-vector database. המערכת משתלבת עם Claude Code דרך 19 כלי MCP, רצה מקומית על ChromaDB ו-SQLite ללא עלויות API, ומשיגה 96.6% על ה-LongMemEval benchmark. עם זאת, קהילת המפתחים מצאה שגיאות מהותיות בתיעוד וחלק מהטענות על הביצועים הן מופרזות.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>ניתן לקשר את MemPalace ל-Claude Code דרך MCP בפקודה אחת (`claude mcp add mempalace`) ואז Claude ישתמש בו אוטומטית — רלוונטי לכל פרויקט שעובדים עליו עם Claude Code (כולל OptiPlan ו-TaylorPlayed)</li><li>הארכיטקטורה ההיררכית (wing → hall → room) משפרת את דיוק החיפוש ב-34% לעומת flat semantic search — רעיון שניתן לאמץ בתכנון מבני זיכרון לסוכני AI</li><li>אלטרנטיבות מסחריות: Mem0 (19–249$/חודש) ו-Zep (25$/חודש+) — MemPalace חינמי ומקומי לגמרי</li><li>הסרטון מכיל מספר שגיאות עובדתיות: שם הכלי הוא MemPalace (לא Mempalis), שם האלגוריתם הוא AAAK (לא AK), ושם היוצרת הוא Milla (שתי L) ולא Mila</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[MemPalace](https://github.com/milla-jovovich/mempalace) | https://github.com/milla-jovovich/mempalace | מערכת זיכרון פתוחה ל-LLM, מבוססת ארמון זיכרון, רצה מקומית עם ChromaDB ו-SQLite, משתלבת עם Claude Code דרך MCP</li><li>[ChromaDB](https://www.trychroma.com/) | https://www.trychroma.com/ | מסד נתונים וקטורי (vector database) לחיפוש סמנטי, רץ מקומית</li><li>[Mem0](https://github.com/mem0ai/mem0) | https://github.com/mem0ai/mem0 | שכבת זיכרון מסחרית ל-AI agents — אלטרנטיבה בתשלום ל-MemPalace</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> לנסות להתקין MemPalace על Claude Code בפרויקט OptiPlan: `pip install mempalace` ואז `claude mcp add mempalace -- python -m mempalace.mcp_server` — ולבדוק אם זה משמר context ארכיטקטוני בין sessions</li><li><i class="ph ph-check-square"></i> לקרוא את ה-README המעודכן ב-GitHub ולעקוב אחרי ה-issues הפתוחים לפני אימוץ — הקהילה מצאה פערים בין התיעוד לקוד האמיתי</li></ul>
+        </div>
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הסרטון קורא לכלי &#x27;Mempalis&#x27; — השם הנכון הוא MemPalace</li><li>הסרטון קורא לאלגוריתם &#x27;AK&#x27; — השם הנכון הוא AAAK</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">ai-memory</span><span class="tag">mcp</span><span class="tag">claude-code</span><span class="tag">rag</span><span class="tag">local-llm</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://vt.tiktok.com/ZSHCSTCLG" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
     <article class="card" id="optiplan-2026-04-09-graphify-claude-code-skill-that-turns-any-folder-i" data-category="optiplan" style="--accent:#FE2C55">
       <div class="card-glow"></div>
       <div class="card-header">
@@ -1713,7 +1757,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-04-09 23:52</p>
+      <p>Last updated: 2026-04-11 02:23</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
