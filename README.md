@@ -1,18 +1,19 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-11 02:23
+> Last updated: 2026-04-15 20:54
 
-**Total notes:** 22 | **Categories:** 5
+**Total notes:** 23 | **Categories:** 5
 
 ---
 
 ## 📊 By Category
 
-### 🧠 אלון קצף — Alon Katzef Advisory (2)
+### 🧠 אלון קצף — Alon Katzef Advisory (3)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-15 | בניית מטריצת החלטות משוקללת בעזרת Claude Opus 4.6 | Building an AI-Powered Weighted Decision Matrix with Claude Opus 4.6 | [🔗](https://vt.tiktok.com/ZSHnNCMNu) | ⭐⭐⭐⭐ |
 | 2026-03-30 | Office CLI – כלי שורת פקודה לסוכני AI לאוטומציה של קבצי Word, Excel ו-PowerPoint ללא Microsoft Office | Office CLI – AI Agent-Native CLI for Word/Excel/PowerPoint Without Microsoft Office | [🔗](https://vt.tiktok.com/ZSHLDko6o) | ⭐⭐⭐⭐ |
 | 2026-03-27 | בניית אוטומציות דטרמיניסטיות תוך דקה עם Claude Code ו-n8n דרך MCP | Building Deterministic Automation Workflows in Minutes with Claude Code + n8n via MCP | [🔗](https://vt.tiktok.com/ZSuKcuKxG/) | ⭐⭐⭐⭐ |
 
@@ -63,6 +64,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-15 | אלון קצף | בניית מטריצת החלטות משוקללת בעזרת Claude Opus 4.6 | Building an AI-Powered Weighted Decision Matrix with Claude Opus 4.6 | [🔗](https://vt.tiktok.com/ZSHnNCMNu) | ⭐⭐⭐⭐ |
 | 2026-04-11 | אופטיפלן | MemPalace — מערכת זיכרון פתוחה ל-AI המבוססת על "ארמון הזיכרון" היווני | MemPalace — Open-Source AI Memory System Inspired by the Ancient Method of Loci | [🔗](https://vt.tiktok.com/ZSHCSTCLG) | ⭐⭐⭐ |
 | 2026-04-09 | אופטיפלן | Graphify — כלי Claude Code לבניית גרף ידע אינטראקטיבי מקוד, PDFs וצילומי מסך | Graphify — Claude Code Skill That Turns Any Folder Into a Queryable Knowledge Graph | [🔗](https://vt.tiktok.com/ZSH9pyA58) | ⭐⭐⭐ |
 | 2026-04-08 | טיילור פלייד | HTML בתוך Canvas: API ניסיוני לרינדור אלמנטי HTML בתוך אלמנט Canvas | HTML-in-Canvas API: Rendering Live HTML Elements Inside a Canvas | [🔗](https://vt.tiktok.com/ZSHmsyXb8) | ⭐⭐ |
