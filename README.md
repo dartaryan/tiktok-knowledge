@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-15 20:54
+> Last updated: 2026-04-17 12:56
 
-**Total notes:** 23 | **Categories:** 5
+**Total notes:** 24 | **Categories:** 5
 
 ---
 
@@ -23,10 +23,11 @@
 |------|-------|-------|--------|-----------|
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (11)
+### 🎲 טיילור פלייד — TailorPlayed (12)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-17 | וורקפלואו מושלם: AI + Figma Weave + After Effects לאנימציית Low-Poly בסגנון PS1 | Viral AI Motion Design Workflow: PS1 Low-Poly with Figma Weave + After Effects | [🔗](https://vt.tiktok.com/ZSHcjkqem) | ⭐⭐ |
 | 2026-04-08 | HTML בתוך Canvas: API ניסיוני לרינדור אלמנטי HTML בתוך אלמנט Canvas | HTML-in-Canvas API: Rendering Live HTML Elements Inside a Canvas | [🔗](https://vt.tiktok.com/ZSHmsyXb8) | ⭐⭐ |
 | 2026-04-07 | שלוש Claude Code Skills לשיפור עיצוב UI: אנימציות, עיצוב ופולישינג | 3 Claude Code Design Skills for Better UI: Emil Kowalski Animations, Impeccable Design, Taste-Skill | [🔗](https://vt.tiktok.com/ZSHP3xvBW) | ⭐⭐⭐⭐ |
 | 2026-04-04 | Lenis — ספריית Smooth Scroll קלילה עם אינטגרציה ל-GSAP | Lenis — Lightweight Smooth Scroll Library with GSAP Integration | [🔗](https://vt.tiktok.com/ZSHBdEyCx) | ⭐⭐ |
@@ -64,6 +65,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-17 | טיילור פלייד | וורקפלואו מושלם: AI + Figma Weave + After Effects לאנימציית Low-Poly בסגנון PS1 | Viral AI Motion Design Workflow: PS1 Low-Poly with Figma Weave + After Effects | [🔗](https://vt.tiktok.com/ZSHcjkqem) | ⭐⭐ |
 | 2026-04-15 | אלון קצף | בניית מטריצת החלטות משוקללת בעזרת Claude Opus 4.6 | Building an AI-Powered Weighted Decision Matrix with Claude Opus 4.6 | [🔗](https://vt.tiktok.com/ZSHnNCMNu) | ⭐⭐⭐⭐ |
 | 2026-04-11 | אופטיפלן | MemPalace — מערכת זיכרון פתוחה ל-AI המבוססת על "ארמון הזיכרון" היווני | MemPalace — Open-Source AI Memory System Inspired by the Ancient Method of Loci | [🔗](https://vt.tiktok.com/ZSHCSTCLG) | ⭐⭐⭐ |
 | 2026-04-09 | אופטיפלן | Graphify — כלי Claude Code לבניית גרף ידע אינטראקטיבי מקוד, PDFs וצילומי מסך | Graphify — Claude Code Skill That Turns Any Folder Into a Queryable Knowledge Graph | [🔗](https://vt.tiktok.com/ZSH9pyA58) | ⭐⭐⭐ |
