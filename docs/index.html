@@ -760,7 +760,7 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="24">0</div>
+        <div class="stat-value" data-target="25">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
@@ -786,7 +786,7 @@
       <button class="filter-btn active" data-filter="all"><i class="ph ph-squares-four"></i> All</button>
 <button class="filter-btn" data-filter="elon-katzef" style="--btn-accent:#25F4EE"><i class="ph ph-brain"></i> Alon Katzef Advisory <span class="count">3</span></button>
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">1</span></button>
-<button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">12</span></button>
+<button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">13</span></button>
 <button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">4</span></button>
 <button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">4</span></button>
     </div>
@@ -797,6 +797,50 @@
     <div class="cards-container">
       <div class="cards-grid" id="cardsGrid">
         
+    <article class="card" id="taylor-played-2026-04-22-video-use-autonomous-ai-video-editing-skill-for-cl" data-category="taylor-played" style="--accent:#A855F7">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-game-controller"></i></div>
+        <div class="card-meta">
+          <span class="card-category">טיילור פלייד &middot; TailorPlayed</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-04-22 &middot; @howtowebdev</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">video-use: עריכת וידאו אוטונומית עם Claude Code</h3>
+      <p class="card-title-en">video-use: Autonomous AI Video Editing Skill for Claude Code</p>
+      <p class="card-summary">video-use הוא כלי קוד-פתוח שפועל כ-skill בתוך Claude Code ומאפשר עריכת וידאו אוטונומית באמצעות שפה טבעית. מספיק לזרוק תיקייה של צילומים גולמיים — הכלי חותך מילות מילוי, מוסיף כתוביות, מבצע color grading אוטומטי ומייצר אנימציות. רלוונטי ל-TaylorPlayed ליצירת תוכן שיווקי ווידאו מוצר ללא עורך וידאו ייעודי.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>הכלי משתמש בארכיטקטורת שתי שכבות: שכבת טקסט (transcript + EDL) ושכבת ויזואל (PNG על-פי-דרישה) — ה-LLM אף פעם לא מעבד פריימים גולמיים, מה שחוסך עשרות מיליוני טוקנים</li><li>הכלי מבצע self-evaluation אוטומטי בכל נקודת חיתוך לפני שמציג תוצאה — מה שמפחית שגיאות ידניות</li><li>התקנה פשוטה: clone + symlink לתוך ספריית ה-skills של Claude Code (~/.claude/skills/video-use)</li><li>שימושי ל-TaylorPlayed ליצירת וידאו שיווקי (unboxing, demos, social content) ללא עורך וידאו — הקשר משני: גם ל-shalhevet ליצירת תוכן הדרכה</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[video-use](https://github.com/browser-use/video-use) | https://github.com/browser-use/video-use | Claude Code skill קוד-פתוח לעריכת וידאו אוטונומית: הסרת מילות מילוי, color grading, כתוביות ואנימציות</li><li>[Claude Code](https://docs.anthropic.com/en/docs/claude-code) | https://docs.anthropic.com/en/docs/claude-code | סביבת קוד אג&#x27;נטית של Anthropic — הכלי פועל בתוכה כ-skill</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> לבדוק את video-use ל-TaylorPlayed: לנסות ליצור סרטון unboxing/demo של משחק לוח מתיקיית צילומים גולמיים</li><li><i class="ph ph-check-square"></i> לבצע: git clone https://github.com/browser-use/video-use ולקשר ל-~/.claude/skills/video-use</li><li><i class="ph ph-check-square"></i> לבחון שימוש ב-video-use לייצור תוכן שיווקי לרשתות חברתיות עבור TaylorPlayed ללא עורך וידאו חיצוני</li></ul>
+        </div>
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הטרנסקריפט אומר &#x27;cloud code&#x27; — ברור שמדובר ב-Claude Code (שגיאת תמלול אוטומטי)</li><li>טענת &#x27;color grading אוטומטי&#x27; ו-&#x27;animation overlays&#x27; מאומתות בקוד הפתוח (Manim/Remotion/PIL) — נראה אמין</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">claude-code</span><span class="tag">video-editing</span><span class="tag">open-source</span><span class="tag">ai-agent</span><span class="tag">content-creation</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://vt.tiktok.com/ZS98ybdPh" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
     <article class="card" id="taylor-played-2026-04-17-viral-ai-motion-design-workflow-ps1-low-poly-with" data-category="taylor-played" style="--accent:#A855F7">
       <div class="card-glow"></div>
       <div class="card-header">
@@ -1845,7 +1889,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-04-17 12:56</p>
+      <p>Last updated: 2026-04-22 17:32</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
