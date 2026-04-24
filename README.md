@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-22 17:32
+> Last updated: 2026-04-24 17:42
 
-**Total notes:** 25 | **Categories:** 5
+**Total notes:** 26 | **Categories:** 5
 
 ---
 
@@ -23,10 +23,11 @@
 |------|-------|-------|--------|-----------|
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (13)
+### 🎲 טיילור פלייד — TailorPlayed (14)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-24 | VibeUI Online — ספריית פרומפטים חינמית לקומפוננטות UI עבור Vibecoding | VibeUI Online — Free UI Prompt Library for Vibe Coders | [🔗](https://vt.tiktok.com/ZS92fQaon) | ⭐⭐⭐ |
 | 2026-04-22 | video-use: עריכת וידאו אוטונומית עם Claude Code | video-use: Autonomous AI Video Editing Skill for Claude Code | [🔗](https://vt.tiktok.com/ZS98ybdPh) | ⭐⭐⭐ |
 | 2026-04-17 | וורקפלואו מושלם: AI + Figma Weave + After Effects לאנימציית Low-Poly בסגנון PS1 | Viral AI Motion Design Workflow: PS1 Low-Poly with Figma Weave + After Effects | [🔗](https://vt.tiktok.com/ZSHcjkqem) | ⭐⭐ |
 | 2026-04-08 | HTML בתוך Canvas: API ניסיוני לרינדור אלמנטי HTML בתוך אלמנט Canvas | HTML-in-Canvas API: Rendering Live HTML Elements Inside a Canvas | [🔗](https://vt.tiktok.com/ZSHmsyXb8) | ⭐⭐ |
@@ -66,6 +67,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-24 | טיילור פלייד | VibeUI Online — ספריית פרומפטים חינמית לקומפוננטות UI עבור Vibecoding | VibeUI Online — Free UI Prompt Library for Vibe Coders | [🔗](https://vt.tiktok.com/ZS92fQaon) | ⭐⭐⭐ |
 | 2026-04-22 | טיילור פלייד | video-use: עריכת וידאו אוטונומית עם Claude Code | video-use: Autonomous AI Video Editing Skill for Claude Code | [🔗](https://vt.tiktok.com/ZS98ybdPh) | ⭐⭐⭐ |
 | 2026-04-17 | טיילור פלייד | וורקפלואו מושלם: AI + Figma Weave + After Effects לאנימציית Low-Poly בסגנון PS1 | Viral AI Motion Design Workflow: PS1 Low-Poly with Figma Weave + After Effects | [🔗](https://vt.tiktok.com/ZSHcjkqem) | ⭐⭐ |
 | 2026-04-15 | אלון קצף | בניית מטריצת החלטות משוקללת בעזרת Claude Opus 4.6 | Building an AI-Powered Weighted Decision Matrix with Claude Opus 4.6 | [🔗](https://vt.tiktok.com/ZSHnNCMNu) | ⭐⭐⭐⭐ |
