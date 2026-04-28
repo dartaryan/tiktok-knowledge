@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-24 20:19
+> Last updated: 2026-04-28 19:47
 
-**Total notes:** 27 | **Categories:** 5
+**Total notes:** 28 | **Categories:** 5
 
 ---
 
@@ -52,10 +52,11 @@
 | 2026-04-05 | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
 | 2026-03-28 | רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים | Website Pre-Launch Security & Operations Checklist (10 Points) | [🔗](https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==) | ⭐⭐⭐⭐ |
 
-### 📦 אחר — Other (4)
+### 📦 אחר — Other (5)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-28 | עריכת וידאו שיחתית עם Claude Code — הכלי video-use של Browser Use | Conversational AI Video Editing with Claude Code — browser-use/video-use | [🔗](https://vt.tiktok.com/ZS9Apr7Fy) | ⭐⭐ |
 | 2026-04-07 | סרטון טיקטוק מסדרת 'אתרים עוצמתיים' — כלי AI לעיצוב מוצר עם רשימת חלקים, תרשימי חיווט ו-CAD | TikTok 'Powerful Websites' Series — AI Product Design Generator with BOM, Wiring Diagrams & CAD | [🔗](https://vt.tiktok.com/ZSH51U991) | ⭐ |
 | 2026-04-07 | TREK — פלטפורמת תכנון טיולים קולאבורטיבית ופתוחה לאחסון עצמי | TREK — Self-Hosted Open Source Collaborative Travel Planner | [🔗](https://vt.tiktok.com/ZSH5bndRB) | ⭐⭐ |
 | 2026-04-07 | אתר להורדת מודלים תלת-ממדיים – כלי, רהיטים, רכבים ועוד | Website for Downloading Free 3D Models (Cars, Furniture, Electronics) | [🔗](https://www.instagram.com/reel/DWd-sLjgUc6/?igsh=MTZnbXJvaHU2NXFzdQ==) | ⭐⭐ |
@@ -68,6 +69,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-28 | אחר | עריכת וידאו שיחתית עם Claude Code — הכלי video-use של Browser Use | Conversational AI Video Editing with Claude Code — browser-use/video-use | [🔗](https://vt.tiktok.com/ZS9Apr7Fy) | ⭐⭐ |
 | 2026-04-24 | טיילור פלייד | פסיכולוגיית מיתוג: אפקט הבהירות הקוגניטיבית ומדוע מסר פשוט בונה אמון | Brand Psychology: Cognitive Fluency Effect and Why Simple Messaging Builds Trust | [🔗](https://vt.tiktok.com/ZS92VrYsF) | ⭐⭐ |
 | 2026-04-24 | טיילור פלייד | VibeUI Online — ספריית פרומפטים חינמית לקומפוננטות UI עבור Vibecoding | VibeUI Online — Free UI Prompt Library for Vibe Coders | [🔗](https://vt.tiktok.com/ZS92fQaon) | ⭐⭐⭐ |
 | 2026-04-22 | טיילור פלייד | video-use: עריכת וידאו אוטונומית עם Claude Code | video-use: Autonomous AI Video Editing Skill for Claude Code | [🔗](https://vt.tiktok.com/ZS98ybdPh) | ⭐⭐⭐ |
