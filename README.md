@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-28 19:47
+> Last updated: 2026-04-29 12:43
 
-**Total notes:** 28 | **Categories:** 5
+**Total notes:** 29 | **Categories:** 5
 
 ---
 
@@ -23,10 +23,11 @@
 |------|-------|-------|--------|-----------|
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (15)
+### 🎲 טיילור פלייד — TailorPlayed (16)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-29 | Open Design — חלופה קוד-פתוח מקומית ל-Claude Design של Anthropic | Open Design — Local-First Open-Source Alternative to Anthropic's Claude Design | [🔗](https://vt.tiktok.com/ZS9Uud3FN) | ⭐⭐⭐ |
 | 2026-04-24 | פסיכולוגיית מיתוג: אפקט הבהירות הקוגניטיבית ומדוע מסר פשוט בונה אמון | Brand Psychology: Cognitive Fluency Effect and Why Simple Messaging Builds Trust | [🔗](https://vt.tiktok.com/ZS92VrYsF) | ⭐⭐ |
 | 2026-04-24 | VibeUI Online — ספריית פרומפטים חינמית לקומפוננטות UI עבור Vibecoding | VibeUI Online — Free UI Prompt Library for Vibe Coders | [🔗](https://vt.tiktok.com/ZS92fQaon) | ⭐⭐⭐ |
 | 2026-04-22 | video-use: עריכת וידאו אוטונומית עם Claude Code | video-use: Autonomous AI Video Editing Skill for Claude Code | [🔗](https://vt.tiktok.com/ZS98ybdPh) | ⭐⭐⭐ |
@@ -69,6 +70,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-04-29 | טיילור פלייד | Open Design — חלופה קוד-פתוח מקומית ל-Claude Design של Anthropic | Open Design — Local-First Open-Source Alternative to Anthropic's Claude Design | [🔗](https://vt.tiktok.com/ZS9Uud3FN) | ⭐⭐⭐ |
 | 2026-04-28 | אחר | עריכת וידאו שיחתית עם Claude Code — הכלי video-use של Browser Use | Conversational AI Video Editing with Claude Code — browser-use/video-use | [🔗](https://vt.tiktok.com/ZS9Apr7Fy) | ⭐⭐ |
 | 2026-04-24 | טיילור פלייד | פסיכולוגיית מיתוג: אפקט הבהירות הקוגניטיבית ומדוע מסר פשוט בונה אמון | Brand Psychology: Cognitive Fluency Effect and Why Simple Messaging Builds Trust | [🔗](https://vt.tiktok.com/ZS92VrYsF) | ⭐⭐ |
 | 2026-04-24 | טיילור פלייד | VibeUI Online — ספריית פרומפטים חינמית לקומפוננטות UI עבור Vibecoding | VibeUI Online — Free UI Prompt Library for Vibe Coders | [🔗](https://vt.tiktok.com/ZS92fQaon) | ⭐⭐⭐ |
