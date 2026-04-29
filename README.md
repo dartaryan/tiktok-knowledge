@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-29 12:43
+> Last updated: 2026-04-29 16:20
 
-**Total notes:** 29 | **Categories:** 5
+**Total notes:** 30 | **Categories:** 5
 
 ---
 
@@ -44,10 +44,11 @@
 | 2026-03-27 | יצירת סרטוני אנימציה עם Claude Code ו-Remotion — ללא תוכנות עריכה | Generating Animated Videos with Claude Code + Remotion Agent Skill — No Editing Software Needed | [🔗](https://vt.tiktok.com/ZSuosm8xj) | ⭐⭐⭐ |
 | 2026-03-27 | Ruflo (לשעבר Claude Flow) — פלטפורמת תזמור Multi-Agent לפיתוח תוכנה עם Claude Code | Ruflo (formerly Claude Flow) — Multi-Agent Orchestration Platform for Claude Code Development | [🔗](https://vt.tiktok.com/ZSH1d9VY3) | ⭐⭐⭐ |
 
-### 🏗️ אופטיפלן — OptiPlan (4)
+### 🏗️ אופטיפלן — OptiPlan (5)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-04-29 | andrej-karpathy-skills: קובץ CLAUDE.md שמכניס משמעת לסוכני קוד AI | andrej-karpathy-skills: A CLAUDE.md File for Disciplined AI Coding Agents | [🔗](https://vt.tiktok.com/ZS9UcXpa8) | ⭐⭐⭐⭐ |
 | 2026-04-11 | MemPalace — מערכת זיכרון פתוחה ל-AI המבוססת על "ארמון הזיכרון" היווני | MemPalace — Open-Source AI Memory System Inspired by the Ancient Method of Loci | [🔗](https://vt.tiktok.com/ZSHCSTCLG) | ⭐⭐⭐ |
 | 2026-04-09 | Graphify — כלי Claude Code לבניית גרף ידע אינטראקטיבי מקוד, PDFs וצילומי מסך | Graphify — Claude Code Skill That Turns Any Folder Into a Queryable Knowledge Graph | [🔗](https://vt.tiktok.com/ZSH9pyA58) | ⭐⭐⭐ |
 | 2026-04-05 | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
@@ -71,6 +72,7 @@
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
 | 2026-04-29 | טיילור פלייד | Open Design — חלופה קוד-פתוח מקומית ל-Claude Design של Anthropic | Open Design — Local-First Open-Source Alternative to Anthropic's Claude Design | [🔗](https://vt.tiktok.com/ZS9Uud3FN) | ⭐⭐⭐ |
+| 2026-04-29 | אופטיפלן | andrej-karpathy-skills: קובץ CLAUDE.md שמכניס משמעת לסוכני קוד AI | andrej-karpathy-skills: A CLAUDE.md File for Disciplined AI Coding Agents | [🔗](https://vt.tiktok.com/ZS9UcXpa8) | ⭐⭐⭐⭐ |
 | 2026-04-28 | אחר | עריכת וידאו שיחתית עם Claude Code — הכלי video-use של Browser Use | Conversational AI Video Editing with Claude Code — browser-use/video-use | [🔗](https://vt.tiktok.com/ZS9Apr7Fy) | ⭐⭐ |
 | 2026-04-24 | טיילור פלייד | פסיכולוגיית מיתוג: אפקט הבהירות הקוגניטיבית ומדוע מסר פשוט בונה אמון | Brand Psychology: Cognitive Fluency Effect and Why Simple Messaging Builds Trust | [🔗](https://vt.tiktok.com/ZS92VrYsF) | ⭐⭐ |
 | 2026-04-24 | טיילור פלייד | VibeUI Online — ספריית פרומפטים חינמית לקומפוננטות UI עבור Vibecoding | VibeUI Online — Free UI Prompt Library for Vibe Coders | [🔗](https://vt.tiktok.com/ZS92fQaon) | ⭐⭐⭐ |
