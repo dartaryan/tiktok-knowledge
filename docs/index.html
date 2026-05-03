@@ -760,7 +760,7 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="31">0</div>
+        <div class="stat-value" data-target="32">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
@@ -788,7 +788,7 @@
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">1</span></button>
 <button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">16</span></button>
 <button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">5</span></button>
-<button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">5</span></button>
+<button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">6</span></button>
     </div>
 
     <div class="divider"></div>
@@ -836,6 +836,46 @@
         <div class="card-tags"><span class="tag">ai-agents</span><span class="tag">claude-md</span><span class="tag">ugc</span><span class="tag">marketing-automation</span><span class="tag">arcads</span></div>
         <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
         <a href="https://vt.tiktok.com/ZS9xRvh6f" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
+    <article class="card" id="other-2026-05-03-video-use-automated-ai-video-editing-skill-for-cla" data-category="other" style="--accent:#8A8B91">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-package"></i></div>
+        <div class="card-meta">
+          <span class="card-category">אחר &middot; Other</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-05-03 &middot; @creativelyange</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">Video-Use: כלי עריכת וידאו אוטומטי מבוסס Claude Code</h3>
+      <p class="card-title-en">Video-Use: Automated AI Video Editing Skill for Claude Code</p>
+      <p class="card-summary">Video-Use הוא כלי קוד פתוח מבית browser-use המאפשר לשחרר קטעי וידאו לתוך תיקייה, ואז Claude Code (שהיוצרת קוראת לו &#x27;Cloud Code&#x27;) מבצע את העריכה ומפיק קובץ final.mp4 מוכן. הכלי עובד דרך תמלול אודיו (ElevenLabs) ומבצע חיתוכים על בסיס גבולות מילים, הסרת מילות מילוי, והוספת כתוביות. הטענות על color grading, פילטרים ואנימציות מוטלות בספק לאור תיעוד ה-repo האמיתי.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>הכלי אינו &#x27;צופה&#x27; בוידאו — הוא קורא את התמלול בשתי שכבות: transcript עם timestamps ברמת מילה + תמונות on-demand, בדומה לגישת browser-use ל-DOM</li><li>לאחר עריכה ראשונית, הכלי מריץ self-evaluation loop שבוחן כל גבול חיתוך ומתקן קפיצות ויזואליות, pops אודיו, וכתוביות חסויות — לפני שמציג תצוגה מקדימה</li><li>קיימים לפחות 3-4 כלים מתחרים נוספים ב-GitHub לעריכת וידאו עם Claude Code: buttercut, claude-code-video-toolkit (digitalsamba), ו-claude-video-vision</li><li>רלוונטי בעיקר למי שמייצר תוכן וידאו שיווקי — ייתכן שימוש עתידי ב-taylor-played ליצירת סרטוני מוצר לפרסום</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[video-use](https://github.com/browser-use/video-use) | https://github.com/browser-use/video-use | כלי עריכת וידאו אוטומטי המשתלב כ-skill ב-Claude Code / Codex — שולט קלטת לתיקייה ומקבל final.mp4</li><li>[Claude Code](https://claude.ai/code) | https://claude.ai/code | סביבת קידוד אוטונומית של Anthropic — בסיס ההרצה לכלי video-use</li><li>[ElevenLabs Scribe](https://elevenlabs.io/scribe) | https://elevenlabs.io/scribe | מנוע תמלול אודיו עם timestamps ברמת מילה ו-speaker diarization — נדרש לתפקוד video-use</li></ul>
+        </div>
+        
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הטענה על &#x27;color grading, filters, animations&#x27; — תיעוד ה-repo האמיתי אינו מאזכר יכולות אלו; הכלי מתמקד בחיתוך מבוסס-transcript, הסרת fillers וכתוביות. ייתכן הגזמה של היוצרת</li><li>הטענה ש-video-use &#x27;עדיף על Remotion&#x27; — השוואה לא הוגנת: Remotion הוא framework ליצירת וידאו פרוגרמטי, video-use הוא כלי לעריכת footage קיים — שני שימושים שונים</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">claude-code</span><span class="tag">video-editing</span><span class="tag">ai-automation</span><span class="tag">browser-use</span><span class="tag">content-creation</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://vt.tiktok.com/ZS9x7e1wS" target="_blank" rel="noopener" class="card-source">
           <i class="ph ph-arrow-square-out"></i> Source
         </a>
       </div>
@@ -2149,7 +2189,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-05-03 13:51</p>
+      <p>Last updated: 2026-05-03 23:53</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
