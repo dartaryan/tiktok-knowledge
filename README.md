@@ -1,18 +1,19 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-04-29 16:20
+> Last updated: 2026-05-03 13:51
 
-**Total notes:** 30 | **Categories:** 5
+**Total notes:** 31 | **Categories:** 5
 
 ---
 
 ## 📊 By Category
 
-### 🧠 אלון קצף — Alon Katzef Advisory (3)
+### 🧠 אלון קצף — Alon Katzef Advisory (4)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-05-03 | אוטומציה של פרסומות UGC עם Claude ו-Arcads: החלפת סוכנות פרסום יקרה ב-$300 לחודש | Claude + Arcads UGC Ad Automation: Replacing a $3–8K/Month Agency for $300 | [🔗](https://vt.tiktok.com/ZS9xRvh6f) | ⭐⭐⭐ |
 | 2026-04-15 | בניית מטריצת החלטות משוקללת בעזרת Claude Opus 4.6 | Building an AI-Powered Weighted Decision Matrix with Claude Opus 4.6 | [🔗](https://vt.tiktok.com/ZSHnNCMNu) | ⭐⭐⭐⭐ |
 | 2026-03-30 | Office CLI – כלי שורת פקודה לסוכני AI לאוטומציה של קבצי Word, Excel ו-PowerPoint ללא Microsoft Office | Office CLI – AI Agent-Native CLI for Word/Excel/PowerPoint Without Microsoft Office | [🔗](https://vt.tiktok.com/ZSHLDko6o) | ⭐⭐⭐⭐ |
 | 2026-03-27 | בניית אוטומציות דטרמיניסטיות תוך דקה עם Claude Code ו-n8n דרך MCP | Building Deterministic Automation Workflows in Minutes with Claude Code + n8n via MCP | [🔗](https://vt.tiktok.com/ZSuKcuKxG/) | ⭐⭐⭐⭐ |
@@ -71,6 +72,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-05-03 | אלון קצף | אוטומציה של פרסומות UGC עם Claude ו-Arcads: החלפת סוכנות פרסום יקרה ב-$300 לחודש | Claude + Arcads UGC Ad Automation: Replacing a $3–8K/Month Agency for $300 | [🔗](https://vt.tiktok.com/ZS9xRvh6f) | ⭐⭐⭐ |
 | 2026-04-29 | טיילור פלייד | Open Design — חלופה קוד-פתוח מקומית ל-Claude Design של Anthropic | Open Design — Local-First Open-Source Alternative to Anthropic's Claude Design | [🔗](https://vt.tiktok.com/ZS9Uud3FN) | ⭐⭐⭐ |
 | 2026-04-29 | אופטיפלן | andrej-karpathy-skills: קובץ CLAUDE.md שמכניס משמעת לסוכני קוד AI | andrej-karpathy-skills: A CLAUDE.md File for Disciplined AI Coding Agents | [🔗](https://vt.tiktok.com/ZS9UcXpa8) | ⭐⭐⭐⭐ |
 | 2026-04-28 | אחר | עריכת וידאו שיחתית עם Claude Code — הכלי video-use של Browser Use | Conversational AI Video Editing with Claude Code — browser-use/video-use | [🔗](https://vt.tiktok.com/ZS9Apr7Fy) | ⭐⭐ |
