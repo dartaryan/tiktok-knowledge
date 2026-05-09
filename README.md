@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-05-03 23:53
+> Last updated: 2026-05-09 14:24
 
-**Total notes:** 32 | **Categories:** 5
+**Total notes:** 33 | **Categories:** 5
 
 ---
 
@@ -55,10 +55,11 @@
 | 2026-04-05 | claude-howto: מדריך ויזואלי מלא לשימוש מתקדם ב-Claude Code — מ-prompts בסיסיים עד אורקסטרציה | claude-howto: Visual Example-Driven Guide to Claude Code — From Basic Prompts to AI Orchestration | [🔗](https://vt.tiktok.com/ZSHUM7m8p) | ⭐⭐⭐⭐ |
 | 2026-03-28 | רשימת בדיקות לפני השקת אתר — אבטחה, תפעול וביצועים | Website Pre-Launch Security & Operations Checklist (10 Points) | [🔗](https://www.instagram.com/reel/DWMXQJPgIrx/?igsh=MThrdmwxdnczOGJnOA==) | ⭐⭐⭐⭐ |
 
-### 📦 אחר — Other (6)
+### 📦 אחר — Other (7)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-05-09 | Brick.Space — גלריית אנימציות אינטרנטיות חינמיות לשימוש, התאמה והורדה | Brick.Space — Free Community-Built Animation Gallery with Customization and Download | [🔗](https://vt.tiktok.com/ZS971du2r) | ⭐⭐ |
 | 2026-05-03 | Video-Use: כלי עריכת וידאו אוטומטי מבוסס Claude Code | Video-Use: Automated AI Video Editing Skill for Claude Code | [🔗](https://vt.tiktok.com/ZS9x7e1wS) | ⭐⭐ |
 | 2026-04-28 | עריכת וידאו שיחתית עם Claude Code — הכלי video-use של Browser Use | Conversational AI Video Editing with Claude Code — browser-use/video-use | [🔗](https://vt.tiktok.com/ZS9Apr7Fy) | ⭐⭐ |
 | 2026-04-07 | סרטון טיקטוק מסדרת 'אתרים עוצמתיים' — כלי AI לעיצוב מוצר עם רשימת חלקים, תרשימי חיווט ו-CAD | TikTok 'Powerful Websites' Series — AI Product Design Generator with BOM, Wiring Diagrams & CAD | [🔗](https://vt.tiktok.com/ZSH51U991) | ⭐ |
@@ -73,6 +74,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-05-09 | אחר | Brick.Space — גלריית אנימציות אינטרנטיות חינמיות לשימוש, התאמה והורדה | Brick.Space — Free Community-Built Animation Gallery with Customization and Download | [🔗](https://vt.tiktok.com/ZS971du2r) | ⭐⭐ |
 | 2026-05-03 | אלון קצף | אוטומציה של פרסומות UGC עם Claude ו-Arcads: החלפת סוכנות פרסום יקרה ב-$300 לחודש | Claude + Arcads UGC Ad Automation: Replacing a $3–8K/Month Agency for $300 | [🔗](https://vt.tiktok.com/ZS9xRvh6f) | ⭐⭐⭐ |
 | 2026-05-03 | אחר | Video-Use: כלי עריכת וידאו אוטומטי מבוסס Claude Code | Video-Use: Automated AI Video Editing Skill for Claude Code | [🔗](https://vt.tiktok.com/ZS9x7e1wS) | ⭐⭐ |
 | 2026-04-29 | טיילור פלייד | Open Design — חלופה קוד-פתוח מקומית ל-Claude Design של Anthropic | Open Design — Local-First Open-Source Alternative to Anthropic's Claude Design | [🔗](https://vt.tiktok.com/ZS9Uud3FN) | ⭐⭐⭐ |
