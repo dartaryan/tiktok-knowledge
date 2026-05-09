@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-05-09 14:24
+> Last updated: 2026-05-09 20:41
 
-**Total notes:** 33 | **Categories:** 5
+**Total notes:** 34 | **Categories:** 5
 
 ---
 
@@ -18,10 +18,11 @@
 | 2026-03-30 | Office CLI – כלי שורת פקודה לסוכני AI לאוטומציה של קבצי Word, Excel ו-PowerPoint ללא Microsoft Office | Office CLI – AI Agent-Native CLI for Word/Excel/PowerPoint Without Microsoft Office | [🔗](https://vt.tiktok.com/ZSHLDko6o) | ⭐⭐⭐⭐ |
 | 2026-03-27 | בניית אוטומציות דטרמיניסטיות תוך דקה עם Claude Code ו-n8n דרך MCP | Building Deterministic Automation Workflows in Minutes with Claude Code + n8n via MCP | [🔗](https://vt.tiktok.com/ZSuKcuKxG/) | ⭐⭐⭐⭐ |
 
-### 🔥 שלהבת — Shalhevet AI Training (1)
+### 🔥 שלהבת — Shalhevet AI Training (2)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-05-09 | מסגרת 'מיפוי כוונות' לאוטומציה של תהליכי עבודה עם AI | Intent Mapping Framework for AI-Driven Workflow Automation | [🔗](https://vt.tiktok.com/ZS97uwx9G) | ⭐⭐⭐ |
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
 ### 🎲 טיילור פלייד — TailorPlayed (16)
@@ -74,6 +75,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-05-09 | שלהבת | מסגרת 'מיפוי כוונות' לאוטומציה של תהליכי עבודה עם AI | Intent Mapping Framework for AI-Driven Workflow Automation | [🔗](https://vt.tiktok.com/ZS97uwx9G) | ⭐⭐⭐ |
 | 2026-05-09 | אחר | Brick.Space — גלריית אנימציות אינטרנטיות חינמיות לשימוש, התאמה והורדה | Brick.Space — Free Community-Built Animation Gallery with Customization and Download | [🔗](https://vt.tiktok.com/ZS971du2r) | ⭐⭐ |
 | 2026-05-03 | אלון קצף | אוטומציה של פרסומות UGC עם Claude ו-Arcads: החלפת סוכנות פרסום יקרה ב-$300 לחודש | Claude + Arcads UGC Ad Automation: Replacing a $3–8K/Month Agency for $300 | [🔗](https://vt.tiktok.com/ZS9xRvh6f) | ⭐⭐⭐ |
 | 2026-05-03 | אחר | Video-Use: כלי עריכת וידאו אוטומטי מבוסס Claude Code | Video-Use: Automated AI Video Editing Skill for Claude Code | [🔗](https://vt.tiktok.com/ZS9x7e1wS) | ⭐⭐ |
