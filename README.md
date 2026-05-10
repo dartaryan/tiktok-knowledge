@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-05-09 20:41
+> Last updated: 2026-05-10 06:07
 
-**Total notes:** 34 | **Categories:** 5
+**Total notes:** 35 | **Categories:** 5
 
 ---
 
@@ -25,10 +25,11 @@
 | 2026-05-09 | מסגרת 'מיפוי כוונות' לאוטומציה של תהליכי עבודה עם AI | Intent Mapping Framework for AI-Driven Workflow Automation | [🔗](https://vt.tiktok.com/ZS97uwx9G) | ⭐⭐⭐ |
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (16)
+### 🎲 טיילור פלייד — TailorPlayed (17)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-05-10 | Avnac — עורך עיצוב גרפי קוד פתוח, מבוסס דפדפן, עם AI מובנה | Avnac — Open-Source Local-First Browser Design Editor with Built-in AI | [🔗](https://vt.tiktok.com/ZS9vDBSBe) | ⭐⭐⭐ |
 | 2026-04-29 | Open Design — חלופה קוד-פתוח מקומית ל-Claude Design של Anthropic | Open Design — Local-First Open-Source Alternative to Anthropic's Claude Design | [🔗](https://vt.tiktok.com/ZS9Uud3FN) | ⭐⭐⭐ |
 | 2026-04-24 | פסיכולוגיית מיתוג: אפקט הבהירות הקוגניטיבית ומדוע מסר פשוט בונה אמון | Brand Psychology: Cognitive Fluency Effect and Why Simple Messaging Builds Trust | [🔗](https://vt.tiktok.com/ZS92VrYsF) | ⭐⭐ |
 | 2026-04-24 | VibeUI Online — ספריית פרומפטים חינמית לקומפוננטות UI עבור Vibecoding | VibeUI Online — Free UI Prompt Library for Vibe Coders | [🔗](https://vt.tiktok.com/ZS92fQaon) | ⭐⭐⭐ |
@@ -75,6 +76,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-05-10 | טיילור פלייד | Avnac — עורך עיצוב גרפי קוד פתוח, מבוסס דפדפן, עם AI מובנה | Avnac — Open-Source Local-First Browser Design Editor with Built-in AI | [🔗](https://vt.tiktok.com/ZS9vDBSBe) | ⭐⭐⭐ |
 | 2026-05-09 | שלהבת | מסגרת 'מיפוי כוונות' לאוטומציה של תהליכי עבודה עם AI | Intent Mapping Framework for AI-Driven Workflow Automation | [🔗](https://vt.tiktok.com/ZS97uwx9G) | ⭐⭐⭐ |
 | 2026-05-09 | אחר | Brick.Space — גלריית אנימציות אינטרנטיות חינמיות לשימוש, התאמה והורדה | Brick.Space — Free Community-Built Animation Gallery with Customization and Download | [🔗](https://vt.tiktok.com/ZS971du2r) | ⭐⭐ |
 | 2026-05-03 | אלון קצף | אוטומציה של פרסומות UGC עם Claude ו-Arcads: החלפת סוכנות פרסום יקרה ב-$300 לחודש | Claude + Arcads UGC Ad Automation: Replacing a $3–8K/Month Agency for $300 | [🔗](https://vt.tiktok.com/ZS9xRvh6f) | ⭐⭐⭐ |
