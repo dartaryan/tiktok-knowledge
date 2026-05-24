@@ -760,7 +760,7 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="38">0</div>
+        <div class="stat-value" data-target="39">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
@@ -786,7 +786,7 @@
       <button class="filter-btn active" data-filter="all"><i class="ph ph-squares-four"></i> All</button>
 <button class="filter-btn" data-filter="elon-katzef" style="--btn-accent:#25F4EE"><i class="ph ph-brain"></i> Alon Katzef Advisory <span class="count">4</span></button>
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">3</span></button>
-<button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">19</span></button>
+<button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">20</span></button>
 <button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">5</span></button>
 <button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">7</span></button>
     </div>
@@ -836,6 +836,50 @@
         <div class="card-tags"><span class="tag">claude-skills</span><span class="tag">claude-code</span><span class="tag">remotion</span><span class="tag">voice-dna</span><span class="tag">elevenlabs</span></div>
         <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
         <a href="https://www.instagram.com/reel/DYh0vdAv2_s/" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
+    <article class="card" id="taylor-played-2026-05-24-ai-character-consistency-face-lock-body-proportion" data-category="taylor-played" style="--accent:#A855F7">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-game-controller"></i></div>
+        <div class="card-meta">
+          <span class="card-category">טיילור פלייד &middot; TailorPlayed</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-05-24 &middot; @Jamie Heinrich</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">עקביות דמויות ב-AI: נעילת פנים, פרופורציות ו-Continuity Pipelines</h3>
+      <p class="card-title-en">AI Character Consistency: Face Lock, Body Proportions, and Continuity Pipelines for Multi-Scene Generation</p>
+      <p class="card-summary">סרטון פרסומי קומי של Jamie Heinrich המקדם קורס בנושא יצירת סרטים ב-AI ($5/חודש). הנקודה המרכזית: כלי AI מייצרים פנים שונות בכל רנדר ונדרשת שיטת &#x27;נעילה&#x27; מראש — בניית master character sheet עם זוויות פרונטל ופרופיל, נעילת Face ID, פרופורציות גוף ו-Outfit IDs, ולאחר מכן שימוש חוזר באותה דמות בכל סצנה. הטכניקות רלוונטיות גם ליצירת artwork עקבי לרכיבי משחקי לוח (קלפים, קופסא, חוברת כללים) ב-taylor-played.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>הבעיה: כלי AI &#x27;ממציאים מחדש&#x27; את פני הדמות בכל ג&#x27;נרציה במקום לשמור על זהות קבועה — כל רנדר מייצר אדם אחר</li><li>הפתרון המרכזי: בנה master character sheet עם זוויות front, 3/4 ו-side לפני ההפקה, ונעל Face ID, פרופורציות גוף ו-Outfit IDs</li><li>לפי מחקר: LoRA training על 15-30 תמונות רפרנס משיג 85-95% שמירת פיצ&#x27;רים; reference image conditioning (IP-Adapter) מתאים לפרויקטים קצרים של 5-10 תמונות לפני שיש drift</li><li>לטיילור פלייד: ישירות ישים לייצור artwork עקבי לקלפים, חוברות כללים ואריזה — אותה דמות על עשרות רכיבי משחק דורשת continuity pipeline מסודר</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[Jamie Heinrich AI Filmmaking Course (Skool)](https://www.skool.com/@jamie-heinrich) | https://www.skool.com/@jamie-heinrich | קורס $5/חודש על יצירת סרטים ב-AI עם דגש על עקביות דמויות — הכלי שמפורסם בסרטון</li><li>[Ideogram Character](https://ideogram.ai/features/character/) | https://ideogram.ai/features/character/ | כלי לנעילת פנים דמות מתמונת רפרנס אחת — שומר על identity אחיד גם בשינוי תנוחה, תלבושת ותאורה</li><li>[IP-Adapter](https://huggingface.co/h94/IP-Adapter) | https://huggingface.co/h94/IP-Adapter | אדפטר ל-Stable Diffusion שמזריק תמונת רפרנס לתהליך הג&#x27;נרציה לשמירת עקביות פנים ללא אימון</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> לפני יצירת artwork לדמויות משחקי לוח ב-taylor-played: בנה master character sheet עם תמונות front, 3/4 ו-side view בתאורה ניטרלית</li><li><i class="ph ph-check-square"></i> נסה Ideogram Character (ideogram.ai) לנעילת פנים מתמונת רפרנס אחת — ישים לדמויות על קלפים וחוברות כללים</li><li><i class="ph ph-check-square"></i> לעקביות לטווח ארוך בין עשרות רכיבי משחק: שקול LoRA training על 15-25 תמונות רפרנס של כל דמות</li></ul>
+        </div>
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הסרטון הוא תוכן פרסומי קומי — לא מציג הדגמה טכנית ולא מזכיר כלי ספציפי בשמו; כל הטכניקות הן בגדר &#x27;כותרות&#x27; בלבד</li><li>האתר של הקורס מזהיר שהמחיר עשוי לעלות מ-$5 ל-$50/חודש בקרוב — המחיר הנוכחי לא מובטח</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">ai-image-generation</span><span class="tag">character-consistency</span><span class="tag">face-lock</span><span class="tag">lora</span><span class="tag">board-game-art</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://www.instagram.com/reel/DYTelGfyWaO/?igsh=MXRuMmQ5cjN4enVrdA==" target="_blank" rel="noopener" class="card-source">
           <i class="ph ph-arrow-square-out"></i> Source
         </a>
       </div>
@@ -2449,7 +2493,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-05-24 11:08</p>
+      <p>Last updated: 2026-05-24 11:10</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
