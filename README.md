@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-05-24 10:58
+> Last updated: 2026-05-24 11:08
 
-**Total notes:** 37 | **Categories:** 5
+**Total notes:** 38 | **Categories:** 5
 
 ---
 
@@ -26,10 +26,11 @@
 | 2026-05-09 | מסגרת 'מיפוי כוונות' לאוטומציה של תהליכי עבודה עם AI | Intent Mapping Framework for AI-Driven Workflow Automation | [🔗](https://vt.tiktok.com/ZS97uwx9G) | ⭐⭐⭐ |
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (18)
+### 🎲 טיילור פלייד — TailorPlayed (19)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-05-24 | שלוש Claude Skills לשיפור עיצוב ממשק משתמש מבוסס AI | Three Claude Code Skills to Fix AI-Generated UI Design Slop | [🔗](https://www.instagram.com/reel/DYnz1_qMIVv/?igsh=MTF3ZGc3M2dnaXozcA==) | ⭐⭐⭐⭐ |
 | 2026-05-24 | שימוש ב-ChatGPT ליצירת Character Sheet לעקביות ויזואלית של דמויות | Using ChatGPT to Generate Character Sheets for Consistent Image/Video Generation | [🔗](https://www.instagram.com/reel/DYpWMReoinn/?igsh=MWVvdmx2eHZyajU1cw==) | ⭐⭐ |
 | 2026-05-10 | Avnac — עורך עיצוב גרפי קוד פתוח, מבוסס דפדפן, עם AI מובנה | Avnac — Open-Source Local-First Browser Design Editor with Built-in AI | [🔗](https://vt.tiktok.com/ZS9vDBSBe) | ⭐⭐⭐ |
 | 2026-04-29 | Open Design — חלופה קוד-פתוח מקומית ל-Claude Design של Anthropic | Open Design — Local-First Open-Source Alternative to Anthropic's Claude Design | [🔗](https://vt.tiktok.com/ZS9Uud3FN) | ⭐⭐⭐ |
@@ -79,6 +80,7 @@
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
 | 2026-05-24 | שלהבת | 6 סקילס של Claude לסטודיו קריאייטיב: אנימציה, מחקר תחרותי, קול ותוכן | 6 Claude Agent Skills for a Creative Studio: Animation, Competitor Research, Voice DNA & Content | [🔗](https://www.instagram.com/reel/DYh0vdAv2_s/) | ⭐⭐⭐ |
+| 2026-05-24 | טיילור פלייד | שלוש Claude Skills לשיפור עיצוב ממשק משתמש מבוסס AI | Three Claude Code Skills to Fix AI-Generated UI Design Slop | [🔗](https://www.instagram.com/reel/DYnz1_qMIVv/?igsh=MTF3ZGc3M2dnaXozcA==) | ⭐⭐⭐⭐ |
 | 2026-05-24 | טיילור פלייד | שימוש ב-ChatGPT ליצירת Character Sheet לעקביות ויזואלית של דמויות | Using ChatGPT to Generate Character Sheets for Consistent Image/Video Generation | [🔗](https://www.instagram.com/reel/DYpWMReoinn/?igsh=MWVvdmx2eHZyajU1cw==) | ⭐⭐ |
 | 2026-05-10 | טיילור פלייד | Avnac — עורך עיצוב גרפי קוד פתוח, מבוסס דפדפן, עם AI מובנה | Avnac — Open-Source Local-First Browser Design Editor with Built-in AI | [🔗](https://vt.tiktok.com/ZS9vDBSBe) | ⭐⭐⭐ |
 | 2026-05-09 | שלהבת | מסגרת 'מיפוי כוונות' לאוטומציה של תהליכי עבודה עם AI | Intent Mapping Framework for AI-Driven Workflow Automation | [🔗](https://vt.tiktok.com/ZS97uwx9G) | ⭐⭐⭐ |
