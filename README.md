@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-05-24 11:10
+> Last updated: 2026-06-06 10:21
 
-**Total notes:** 39 | **Categories:** 5
+**Total notes:** 40 | **Categories:** 5
 
 ---
 
@@ -26,10 +26,11 @@
 | 2026-05-09 | מסגרת 'מיפוי כוונות' לאוטומציה של תהליכי עבודה עם AI | Intent Mapping Framework for AI-Driven Workflow Automation | [🔗](https://vt.tiktok.com/ZS97uwx9G) | ⭐⭐⭐ |
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (20)
+### 🎲 טיילור פלייד — TailorPlayed (21)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-06-06 | שיווק מסתורין: איך פיקסאר השתמשה במעריצות טיילור סוויפט לקמפיין ויראלי עצמאי | Mystery Marketing: How Pixar Turned Taylor Swift Fandom Into a Self-Spreading Campaign | [🔗](https://www.instagram.com/reel/DZNf7abuGYh/) | ⭐⭐ |
 | 2026-05-24 | עקביות דמויות ב-AI: נעילת פנים, פרופורציות ו-Continuity Pipelines | AI Character Consistency: Face Lock, Body Proportions, and Continuity Pipelines for Multi-Scene Generation | [🔗](https://www.instagram.com/reel/DYTelGfyWaO/?igsh=MXRuMmQ5cjN4enVrdA==) | ⭐⭐⭐ |
 | 2026-05-24 | שלוש Claude Skills לשיפור עיצוב ממשק משתמש מבוסס AI | Three Claude Code Skills to Fix AI-Generated UI Design Slop | [🔗](https://www.instagram.com/reel/DYnz1_qMIVv/?igsh=MTF3ZGc3M2dnaXozcA==) | ⭐⭐⭐⭐ |
 | 2026-05-24 | שימוש ב-ChatGPT ליצירת Character Sheet לעקביות ויזואלית של דמויות | Using ChatGPT to Generate Character Sheets for Consistent Image/Video Generation | [🔗](https://www.instagram.com/reel/DYpWMReoinn/?igsh=MWVvdmx2eHZyajU1cw==) | ⭐⭐ |
@@ -80,6 +81,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-06-06 | טיילור פלייד | שיווק מסתורין: איך פיקסאר השתמשה במעריצות טיילור סוויפט לקמפיין ויראלי עצמאי | Mystery Marketing: How Pixar Turned Taylor Swift Fandom Into a Self-Spreading Campaign | [🔗](https://www.instagram.com/reel/DZNf7abuGYh/) | ⭐⭐ |
 | 2026-05-24 | שלהבת | 6 סקילס של Claude לסטודיו קריאייטיב: אנימציה, מחקר תחרותי, קול ותוכן | 6 Claude Agent Skills for a Creative Studio: Animation, Competitor Research, Voice DNA & Content | [🔗](https://www.instagram.com/reel/DYh0vdAv2_s/) | ⭐⭐⭐ |
 | 2026-05-24 | טיילור פלייד | עקביות דמויות ב-AI: נעילת פנים, פרופורציות ו-Continuity Pipelines | AI Character Consistency: Face Lock, Body Proportions, and Continuity Pipelines for Multi-Scene Generation | [🔗](https://www.instagram.com/reel/DYTelGfyWaO/?igsh=MXRuMmQ5cjN4enVrdA==) | ⭐⭐⭐ |
 | 2026-05-24 | טיילור פלייד | שלוש Claude Skills לשיפור עיצוב ממשק משתמש מבוסס AI | Three Claude Code Skills to Fix AI-Generated UI Design Slop | [🔗](https://www.instagram.com/reel/DYnz1_qMIVv/?igsh=MTF3ZGc3M2dnaXozcA==) | ⭐⭐⭐⭐ |
