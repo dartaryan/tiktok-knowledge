@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-06-08 14:51
+> Last updated: 2026-06-10 10:34
 
-**Total notes:** 43 | **Categories:** 5
+**Total notes:** 44 | **Categories:** 5
 
 ---
 
@@ -27,10 +27,11 @@
 | 2026-05-09 | מסגרת 'מיפוי כוונות' לאוטומציה של תהליכי עבודה עם AI | Intent Mapping Framework for AI-Driven Workflow Automation | [🔗](https://vt.tiktok.com/ZS97uwx9G) | ⭐⭐⭐ |
 | 2026-03-26 | Claude Code כמנוע מחקר: שילוב Skills, Notebook LM ו-Obsidian לוורקפלו אוטומטי משתפר-עצמי | Claude Code Research Workflow: Combining Skills, NotebookLM and Obsidian into a Self-Improving Pipeline | [🔗](https://vt.tiktok.com/ZSumoAT6M/) | ⭐⭐⭐ |
 
-### 🎲 טיילור פלייד — TailorPlayed (23)
+### 🎲 טיילור פלייד — TailorPlayed (24)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-06-10 | 5 אתרים לפיתוח UI מהיר ב-Vibe Coding: ספריות קומפוננטות, השראה עיצובית ו-AI לבניית אפליקציות iOS | 5 Websites for Vibe Coding UI: Component Libraries, Design Inspiration & AI iOS App Builder | [🔗](https://www.instagram.com/reel/DZXWW-MyPNw/?igsh=Mnd1M3dnZWFtNTZx) | ⭐⭐⭐ |
 | 2026-06-08 | Open Generative AI — חלופה חינמית ובקוד פתוח ל-Higgsfield AI | Open Generative AI — Free Open-Source Alternative to Higgsfield AI | [🔗](https://www.instagram.com/reel/DXZlhjFjz7v/?igsh=MzZ0YzgxMHBoYThq) | ⭐⭐ |
 | 2026-06-07 | יצירת מוקאפים בכמות גדולה עם ה-API של OpenAI לתמונות — טענות מוגזמות ו-URL מזויף | Bulk Product Mockup Generation with OpenAI Images API — Inflated Claims and Fake URL | [🔗](https://www.instagram.com/reel/DZIn50hvsu4/?igsh=MTZ0cnM4YTZoMzc5aw==) | ⭐⭐ |
 | 2026-06-06 | שיווק מסתורין: איך פיקסאר השתמשה במעריצות טיילור סוויפט לקמפיין ויראלי עצמאי | Mystery Marketing: How Pixar Turned Taylor Swift Fandom Into a Self-Spreading Campaign | [🔗](https://www.instagram.com/reel/DZNf7abuGYh/) | ⭐⭐ |
@@ -84,6 +85,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-06-10 | טיילור פלייד | 5 אתרים לפיתוח UI מהיר ב-Vibe Coding: ספריות קומפוננטות, השראה עיצובית ו-AI לבניית אפליקציות iOS | 5 Websites for Vibe Coding UI: Component Libraries, Design Inspiration & AI iOS App Builder | [🔗](https://www.instagram.com/reel/DZXWW-MyPNw/?igsh=Mnd1M3dnZWFtNTZx) | ⭐⭐⭐ |
 | 2026-06-08 | טיילור פלייד | Open Generative AI — חלופה חינמית ובקוד פתוח ל-Higgsfield AI | Open Generative AI — Free Open-Source Alternative to Higgsfield AI | [🔗](https://www.instagram.com/reel/DXZlhjFjz7v/?igsh=MzZ0YzgxMHBoYThq) | ⭐⭐ |
 | 2026-06-07 | טיילור פלייד | יצירת מוקאפים בכמות גדולה עם ה-API של OpenAI לתמונות — טענות מוגזמות ו-URL מזויף | Bulk Product Mockup Generation with OpenAI Images API — Inflated Claims and Fake URL | [🔗](https://www.instagram.com/reel/DZIn50hvsu4/?igsh=MTZ0cnM4YTZoMzc5aw==) | ⭐⭐ |
 | 2026-06-06 | שלהבת | 5 מיומנויות לשימוש ב-Claude — תוכן עם תמלול פגום | Top 5 Claude AI Skills — Garbled Transcript | [🔗](https://www.instagram.com/reel/DZPpN76PDkG/?igsh=ODFxeXZmcW9kbm5w) | ⭐ |
