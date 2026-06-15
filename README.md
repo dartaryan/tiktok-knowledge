@@ -1,9 +1,9 @@
 # 🎓 TikTok Knowledge Base
 
 > Auto-generated index of extracted knowledge from TikTok tech videos.
-> Last updated: 2026-06-10 10:34
+> Last updated: 2026-06-15 21:15
 
-**Total notes:** 44 | **Categories:** 5
+**Total notes:** 45 | **Categories:** 5
 
 ---
 
@@ -56,10 +56,11 @@
 | 2026-03-27 | יצירת סרטוני אנימציה עם Claude Code ו-Remotion — ללא תוכנות עריכה | Generating Animated Videos with Claude Code + Remotion Agent Skill — No Editing Software Needed | [🔗](https://vt.tiktok.com/ZSuosm8xj) | ⭐⭐⭐ |
 | 2026-03-27 | Ruflo (לשעבר Claude Flow) — פלטפורמת תזמור Multi-Agent לפיתוח תוכנה עם Claude Code | Ruflo (formerly Claude Flow) — Multi-Agent Orchestration Platform for Claude Code Development | [🔗](https://vt.tiktok.com/ZSH1d9VY3) | ⭐⭐⭐ |
 
-### 🏗️ אופטיפלן — OptiPlan (5)
+### 🏗️ אופטיפלן — OptiPlan (6)
 
 | Date | כותרת | Title | Source | Relevance |
 |------|-------|-------|--------|-----------|
+| 2026-06-15 | סוכן קוד חינמי בטרמינל עם Nemotron 3 Ultra של NVIDIA דרך OpenRouter | Free Frontier Coding Agent in Terminal: NVIDIA Nemotron 3 Ultra via OpenRouter + OpenCode | [🔗](https://www.instagram.com/reel/DZhwQM7qYIB/?igsh=MXNnN2poNnMxNXYz) | ⭐⭐⭐⭐ |
 | 2026-04-29 | andrej-karpathy-skills: קובץ CLAUDE.md שמכניס משמעת לסוכני קוד AI | andrej-karpathy-skills: A CLAUDE.md File for Disciplined AI Coding Agents | [🔗](https://vt.tiktok.com/ZS9UcXpa8) | ⭐⭐⭐⭐ |
 | 2026-04-11 | MemPalace — מערכת זיכרון פתוחה ל-AI המבוססת על "ארמון הזיכרון" היווני | MemPalace — Open-Source AI Memory System Inspired by the Ancient Method of Loci | [🔗](https://vt.tiktok.com/ZSHCSTCLG) | ⭐⭐⭐ |
 | 2026-04-09 | Graphify — כלי Claude Code לבניית גרף ידע אינטראקטיבי מקוד, PDFs וצילומי מסך | Graphify — Claude Code Skill That Turns Any Folder Into a Queryable Knowledge Graph | [🔗](https://vt.tiktok.com/ZSH9pyA58) | ⭐⭐⭐ |
@@ -85,6 +86,7 @@
 
 | Date | Category | כותרת | Title | Source | Relevance |
 |------|----------|-------|-------|--------|-----------|
+| 2026-06-15 | אופטיפלן | סוכן קוד חינמי בטרמינל עם Nemotron 3 Ultra של NVIDIA דרך OpenRouter | Free Frontier Coding Agent in Terminal: NVIDIA Nemotron 3 Ultra via OpenRouter + OpenCode | [🔗](https://www.instagram.com/reel/DZhwQM7qYIB/?igsh=MXNnN2poNnMxNXYz) | ⭐⭐⭐⭐ |
 | 2026-06-10 | טיילור פלייד | 5 אתרים לפיתוח UI מהיר ב-Vibe Coding: ספריות קומפוננטות, השראה עיצובית ו-AI לבניית אפליקציות iOS | 5 Websites for Vibe Coding UI: Component Libraries, Design Inspiration & AI iOS App Builder | [🔗](https://www.instagram.com/reel/DZXWW-MyPNw/?igsh=Mnd1M3dnZWFtNTZx) | ⭐⭐⭐ |
 | 2026-06-08 | טיילור פלייד | Open Generative AI — חלופה חינמית ובקוד פתוח ל-Higgsfield AI | Open Generative AI — Free Open-Source Alternative to Higgsfield AI | [🔗](https://www.instagram.com/reel/DXZlhjFjz7v/?igsh=MzZ0YzgxMHBoYThq) | ⭐⭐ |
 | 2026-06-07 | טיילור פלייד | יצירת מוקאפים בכמות גדולה עם ה-API של OpenAI לתמונות — טענות מוגזמות ו-URL מזויף | Bulk Product Mockup Generation with OpenAI Images API — Inflated Claims and Fake URL | [🔗](https://www.instagram.com/reel/DZIn50hvsu4/?igsh=MTZ0cnM4YTZoMzc5aw==) | ⭐⭐ |
