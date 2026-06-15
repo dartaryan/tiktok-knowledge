@@ -760,7 +760,7 @@
     <div class="stats">
       <div class="stat">
         <i class="ph ph-note-pencil stat-icon"></i>
-        <div class="stat-value" data-target="44">0</div>
+        <div class="stat-value" data-target="45">0</div>
         <div class="stat-label">Notes</div>
       </div>
       <div class="stat">
@@ -787,7 +787,7 @@
 <button class="filter-btn" data-filter="elon-katzef" style="--btn-accent:#25F4EE"><i class="ph ph-brain"></i> Alon Katzef Advisory <span class="count">4</span></button>
 <button class="filter-btn" data-filter="shalhevet" style="--btn-accent:#FF6B35"><i class="ph ph-flame"></i> Shalhevet AI Training <span class="count">4</span></button>
 <button class="filter-btn" data-filter="taylor-played" style="--btn-accent:#A855F7"><i class="ph ph-game-controller"></i> TailorPlayed <span class="count">24</span></button>
-<button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">5</span></button>
+<button class="filter-btn" data-filter="optiplan" style="--btn-accent:#FE2C55"><i class="ph ph-buildings"></i> OptiPlan <span class="count">6</span></button>
 <button class="filter-btn" data-filter="other" style="--btn-accent:#8A8B91"><i class="ph ph-package"></i> Other <span class="count">7</span></button>
     </div>
 
@@ -797,6 +797,50 @@
     <div class="cards-container">
       <div class="cards-grid" id="cardsGrid">
         
+    <article class="card" id="optiplan-2026-06-15-free-frontier-coding-agent-in-terminal-nvidia-nemo" data-category="optiplan" style="--accent:#FE2C55">
+      <div class="card-glow"></div>
+      <div class="card-header">
+        <div class="card-icon"><i class="ph ph-buildings"></i></div>
+        <div class="card-meta">
+          <span class="card-category">אופטיפלן &middot; OptiPlan</span>
+          <span class="card-date"><i class="ph ph-calendar-blank"></i> 2026-06-15 &middot; @Build With AI</span>
+        </div>
+        <div class="card-relevance"><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph-fill ph-star"></i><i class="ph ph-star"></i></div>
+      </div>
+      <h3 class="card-title-he">סוכן קוד חינמי בטרמינל עם Nemotron 3 Ultra של NVIDIA דרך OpenRouter</h3>
+      <p class="card-title-en">Free Frontier Coding Agent in Terminal: NVIDIA Nemotron 3 Ultra via OpenRouter + OpenCode</p>
+      <p class="card-summary">הסרטון מציג שילוב בין OpenCode (סוכן קוד open-source שרץ בטרמינל) לבין Nemotron 3 Ultra של NVIDIA — מודל MoE בעל 550B פרמטרים עם חלון הקשר של מיליון טוקן, זמין בחינם דרך OpenRouter. ההגדרה פשוטה: התקנת OpenCode, פתיחת חשבון OpenRouter חינמי, חיבור המפתח דרך /connect ובחירת המודל דרך /models. ניתן גם לנסות את המודל ישירות בדפדפן ב-build.nvidia.com.</p>
+      <div class="card-details">
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-lightbulb"></i> Insights</div>
+          <ul class="card-list"><li>Nemotron 3 Ultra הוא MoE (Mixture-of-Experts) — 550B פרמטרים סה&quot;כ אך רק ~55B פעילים לכל טוקן, מה שמאפשר מהירות של 300+ טוקנים/שנייה — פי 2.5-4 מהר יותר מ-GPT-5</li><li>OpenCode הוא כלי provider-agnostic: ניתן לחבר אליו Claude, OpenAI, Gemini, OpenRouter, מודלים מקומיים דרך Ollama — גמישות מלאה ללא נעילת ספק</li><li>חלון הקשר של מיליון טוקן מאפשר לקרוא codebase שלם — רלוונטי מאוד לפרויקט OptiPlan עם NX monorepo גדול</li><li>OpenCode תומך ב-Plan mode (Tab) לסקירת תוכנית לפני ביצוע שינויים — בטיחות חשובה בעבודה על codebase ייצורי</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-wrench"></i> Tools</div>
+          <ul class="card-list"><li>[NVIDIA Nemotron 3 Ultra](https://build.nvidia.com/nvidia/nemotron-3-ultra) | https://build.nvidia.com/nvidia/nemotron-3-ultra | מודל שפה open-weight של NVIDIA, 550B פרמטרים (MoE, 55B פעילים), חלון הקשר 1M טוקן, מהיר במיוחד לסוכנים</li><li>[OpenCode](https://opencode.ai) | https://opencode.ai | סוכן קוד open-source שרץ בטרמינל, תומך ב-75+ ספקי מודלים, כולל LSP integration ו-Plan/Build modes</li><li>[OpenRouter](https://openrouter.ai) | https://openrouter.ai | שער API מאוחד לגישה למאות מודלים כולל Nemotron Ultra — מאפשר גישה חינמית למודלים נבחרים</li></ul>
+        </div>
+        
+        <div class="card-section">
+          <div class="card-section-title"><i class="ph ph-list-checks"></i> Action Items</div>
+          <ul class="card-list actions"><li><i class="ph ph-check-square"></i> התקן OpenCode בטרמינל: curl -fsSL https://opencode.ai/install | bash (או npm i -g opencode-ai@latest)</li><li><i class="ph ph-check-square"></i> פתח חשבון חינמי ב-OpenRouter בכתובת openrouter.ai, צור API key</li><li><i class="ph ph-check-square"></i> בתוך פרויקט OptiPlan, הפעל opencode ואז /connect ← בחר OpenRouter ← הדבק מפתח</li></ul>
+        </div>
+        
+        <div class="card-section verification">
+          <div class="card-section-title"><i class="ph ph-warning"></i> Verification</div>
+          <ul class="card-list"><li>הטענה &#x27;550 billion parameters&#x27; — נכון אך מטעה: מדובר במודל MoE עם 55B פרמטרים פעילים בלבד לכל טוקן, לא 550B פעילים</li><li>הטענה &#x27;beats most of them&#x27; — מוגזמת: Nemotron Ultra מוביל בין מודלי open-weight אמריקאיים אך נופל מ-Kimi K2.6 הסיני ב-6 נקודות על מדד Intelligence Index</li></ul>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags"><span class="tag">coding-agent</span><span class="tag">open-source</span><span class="tag">nvidia</span><span class="tag">terminal</span><span class="tag">openrouter</span></div>
+        <button class="expand-btn" onclick="toggleCard(this)"><i class="ph ph-caret-down"></i></button>
+        <a href="https://www.instagram.com/reel/DZhwQM7qYIB/?igsh=MXNnN2poNnMxNXYz" target="_blank" rel="noopener" class="card-source">
+          <i class="ph ph-arrow-square-out"></i> Source
+        </a>
+      </div>
+    </article>
+
     <article class="card" id="taylor-played-2026-06-10-5-websites-for-vibe-coding-ui-component-libraries" data-category="taylor-played" style="--accent:#A855F7">
       <div class="card-glow"></div>
       <div class="card-header">
@@ -2705,7 +2749,7 @@
 
     <!-- Footer -->
     <footer>
-      <p>Last updated: 2026-06-10 10:34</p>
+      <p>Last updated: 2026-06-15 21:15</p>
       <p style="margin-top:8px">
         Built with <span class="footer-heart"><i class="ph-fill ph-heart"></i></span>
         using <a href="https://github.com/dartaryan/tiktok-pipeline">TikTok Knowledge Pipeline</a>
